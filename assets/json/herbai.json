@@ -184,8 +184,8 @@
     "name": "Gargždai",
     "type": "Rajonas",
     "county": "Klaipėdos apskritis",
-    "file": "Gargzdai_rajonas.gif",
-    "isSvg": false,
+    "file": "Gargzdai_rajonas.svg",
+    "isSvg": true,
     "full_name": "Klaipėdos rajono savivaldybės herbas"
   },
   {

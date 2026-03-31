@@ -274,8 +274,8 @@
     "name": "Palanga",
     "type": "Miestas",
     "county": "Klaipėdos apskritis",
-    "file": "Palanga.png",
-    "isSvg": false,
+    "file": "Palanga.svg",
+    "isSvg": true,
     "full_name": "Palangos miesto savivaldybės herbas"
   },
   {

@@ -2,4024 +2,4024 @@
   {
     "id": 0,
     "name": "Naujoji Akmenė",
-    "herbasName": "Akmenės rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Šiaulių apskritis",
     "file": "Naujoji_Akmene_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Akmenės rajono savivaldybės herbas"
   },
   {
     "id": 1,
     "name": "Alytus",
-    "herbasName": "Alytaus miesto savivaldybės herbas",
     "type": "Miestas",
     "county": "Alytaus apskritis",
     "file": "Alytus.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Alytaus miesto savivaldybės herbas"
   },
   {
     "id": 2,
     "name": "Alytus",
-    "herbasName": "Alytaus rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Alytaus apskritis",
     "file": "Alytus_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Alytaus rajono savivaldybės herbas"
   },
   {
     "id": 3,
     "name": "Anykščiai",
-    "herbasName": "Anykščių rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Utenos apskritis",
     "file": "Anyksciai_rajonas.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Anykščių rajono savivaldybės herbas"
   },
   {
     "id": 4,
     "name": "Birštonas",
-    "herbasName": "Birštono savivaldybės herbas",
     "type": "Savivaldybė",
     "county": "Kauno apskritis",
     "file": "Birstonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Birštono savivaldybės herbas"
   },
   {
     "id": 5,
     "name": "Biržai",
-    "herbasName": "Biržų rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Panevėžio apskritis",
     "file": "Birzai_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Biržų rajono savivaldybės herbas"
   },
   {
     "id": 6,
     "name": "Druskininkai",
-    "herbasName": "Druskininkų savivaldybės herbas",
     "type": "Savivaldybė",
     "county": "Alytaus apskritis",
     "file": "Druskininkai.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Druskininkų savivaldybės herbas"
   },
   {
     "id": 7,
     "name": "Elektrėnai",
-    "herbasName": "Elektrėnų savivaldybės herbas",
     "type": "Savivaldybė",
     "county": "Vilniaus apskritis",
     "file": "Elektrenai.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Elektrėnų savivaldybės herbas"
   },
   {
     "id": 8,
     "name": "Ignalina",
-    "herbasName": "Ignalinos rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Utenos apskritis",
     "file": "Ignalina_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Ignalinos rajono savivaldybės herbas"
   },
   {
     "id": 9,
     "name": "Jonava",
-    "herbasName": "Jonavos rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Kauno apskritis",
     "file": "Jonava_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Jonavos rajono savivaldybės herbas"
   },
   {
     "id": 10,
     "name": "Joniškis",
-    "herbasName": "Joniškio rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Šiaulių apskritis",
     "file": "Joniskis_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Joniškio rajono savivaldybės herbas"
   },
   {
     "id": 11,
     "name": "Jurbarkas",
-    "herbasName": "Jurbarko rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Tauragės apskritis",
     "file": "Jurbarkas_rajonas.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Jurbarko rajono savivaldybės herbas"
   },
   {
     "id": 12,
     "name": "Kaišiadorys",
-    "herbasName": "Kaišiadorių rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Kauno apskritis",
     "file": "Kaisiadorys_rajonas.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kaišiadorių rajono savivaldybės herbas"
   },
   {
     "id": 13,
     "name": "Kalvarija",
-    "herbasName": "Kalvarijos savivaldybės herbas",
     "type": "Savivaldybė",
     "county": "Marijampolės apskritis",
     "file": "Kalvarija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kalvarijos savivaldybės herbas"
   },
   {
     "id": 14,
     "name": "Kaunas",
-    "herbasName": "Kauno miesto savivaldybės herbas",
     "type": "Miestas",
     "county": "Kauno apskritis",
     "file": "Kaunas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kauno miesto savivaldybės herbas"
   },
   {
     "id": 15,
     "name": "Kaunas",
-    "herbasName": "Kauno rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Kauno apskritis",
     "file": "Kaunas_rajonas.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kauno rajono savivaldybės herbas"
   },
   {
     "id": 16,
     "name": "Kazlų Rūda",
-    "herbasName": "Kazlų Rūdos savivaldybės herbas",
     "type": "Savivaldybė",
     "county": "Marijampolės apskritis",
     "file": "Kazlu_Ruda.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Kazlų Rūdos savivaldybės herbas"
   },
   {
     "id": 17,
     "name": "Kelmė",
-    "herbasName": "Kelmės rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Šiaulių apskritis",
     "file": "Kelme_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Kelmės rajono savivaldybės herbas"
   },
   {
     "id": 18,
     "name": "Kėdainiai",
-    "herbasName": "Kėdainių rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Kauno apskritis",
     "file": "Kedainiai_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kėdainių rajono savivaldybės herbas"
   },
   {
     "id": 19,
     "name": "Klaipėda",
-    "herbasName": "Klaipėdos miesto savivaldybės herbas",
     "type": "Miestas",
     "county": "Klaipėdos apskritis",
     "file": "Klaipeda.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Klaipėdos miesto savivaldybės herbas"
   },
   {
     "id": 20,
     "name": "Gargždai",
-    "herbasName": "Klaipėdos rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Klaipėdos apskritis",
     "file": "Gargzdai_rajonas.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Klaipėdos rajono savivaldybės herbas"
   },
   {
     "id": 21,
     "name": "Kretinga",
-    "herbasName": "Kretingos rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Klaipėdos apskritis",
     "file": "Kretinga_rajonas.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kretingos rajono savivaldybės herbas"
   },
   {
     "id": 22,
     "name": "Kupiškis",
-    "herbasName": "Kupiškio rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Panevėžio apskritis",
     "file": "Kupiskis_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kupiškio rajono savivaldybės herbas"
   },
   {
     "id": 23,
     "name": "Lazdijai",
-    "herbasName": "Lazdijų rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Alytaus apskritis",
     "file": "Lazdijai_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Lazdijų rajono savivaldybės herbas"
   },
   {
     "id": 24,
     "name": "Marijampolė",
-    "herbasName": "Marijampolės savivaldybės herbas",
     "type": "Savivaldybė",
     "county": "Marijampolės apskritis",
     "file": "Marijampole.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Marijampolės savivaldybės herbas"
   },
   {
     "id": 25,
     "name": "Mažeikiai",
-    "herbasName": "Mažeikių rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Telšių apskritis",
     "file": "Mazeikiai_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Mažeikių rajono savivaldybės herbas"
   },
   {
     "id": 26,
     "name": "Molėtai",
-    "herbasName": "Molėtų rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Utenos apskritis",
     "file": "Moletai_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Molėtų rajono savivaldybės herbas"
   },
   {
     "id": 27,
     "name": "Nida",
-    "herbasName": "Neringos savivaldybės herbas",
     "type": "Savivaldybė",
     "county": "Klaipėdos apskritis",
     "file": "Nida.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Neringos savivaldybės herbas"
   },
   {
     "id": 28,
     "name": "Pagėgiai",
-    "herbasName": "Pagėgių savivaldybės herbas",
     "type": "Savivaldybė",
     "county": "Tauragės apskritis",
     "file": "Pagegiai.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pagėgių savivaldybės herbas"
   },
   {
     "id": 29,
     "name": "Pakruojis",
-    "herbasName": "Pakruojo rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Šiaulių apskritis",
     "file": "Pakruojis_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pakruojo rajono savivaldybės herbas"
   },
   {
     "id": 30,
     "name": "Palanga",
-    "herbasName": "Palangos miesto savivaldybės herbas",
     "type": "Miestas",
     "county": "Klaipėdos apskritis",
     "file": "Palanga.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Palangos miesto savivaldybės herbas"
   },
   {
     "id": 31,
     "name": "Panevėžys",
-    "herbasName": "Panevėžio miesto savivaldybės herbas",
     "type": "Miestas",
     "county": "Panevėžio apskritis",
     "file": "Panevezys.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Panevėžio miesto savivaldybės herbas"
   },
   {
     "id": 32,
     "name": "Panevėžys",
-    "herbasName": "Panevėžio rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Panevėžio apskritis",
     "file": "Panevezys_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Panevėžio rajono savivaldybės herbas"
   },
   {
     "id": 33,
     "name": "Pasvalys",
-    "herbasName": "Pasvalio rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Panevėžio apskritis",
     "file": "Pasvalys_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Pasvalio rajono savivaldybės herbas"
   },
   {
     "id": 34,
     "name": "Plungė",
-    "herbasName": "Plungės rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Telšių apskritis",
     "file": "Plunge_rajonas.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Plungės rajono savivaldybės herbas"
   },
   {
     "id": 35,
     "name": "Prienai",
-    "herbasName": "Prienų rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Kauno apskritis",
     "file": "Prienai_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Prienų rajono savivaldybės herbas"
   },
   {
     "id": 36,
     "name": "Radviliškis",
-    "herbasName": "Radviliškio rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Šiaulių apskritis",
     "file": "Radviliskis_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Radviliškio rajono savivaldybės herbas"
   },
   {
     "id": 37,
     "name": "Raseiniai",
-    "herbasName": "Raseinių rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Kauno apskritis",
     "file": "Raseiniai_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Raseinių rajono savivaldybės herbas"
   },
   {
     "id": 38,
     "name": "Rietavas",
-    "herbasName": "Rietavo savivaldybės herbas",
     "type": "Savivaldybė",
     "county": "Telšių apskritis",
     "file": "Rietavas.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Rietavo savivaldybės herbas"
   },
   {
     "id": 39,
     "name": "Rokiškis",
-    "herbasName": "Rokiškio rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Panevėžio apskritis",
     "file": "Rokiskis_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Rokiškio rajono savivaldybės herbas"
   },
   {
     "id": 40,
     "name": "Skuodas",
-    "herbasName": "Skuodo rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Klaipėdos apskritis",
     "file": "Skuodas_rajonas.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Skuodo rajono savivaldybės herbas"
   },
   {
     "id": 41,
     "name": "Šakiai",
-    "herbasName": "Šakių rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Marijampolės apskritis",
     "file": "Sakiai_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šakių rajono savivaldybės herbas"
   },
   {
     "id": 42,
     "name": "Šalčininkai",
-    "herbasName": "Šalčininkų rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Vilniaus apskritis",
     "file": "Salcininkai_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Šalčininkų rajono savivaldybės herbas"
   },
   {
     "id": 43,
     "name": "Šiauliai",
-    "herbasName": "Šiaulių miesto savivaldybės herbas",
     "type": "Miestas",
     "county": "Šiaulių apskritis",
     "file": "Siauliai.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šiaulių miesto savivaldybės herbas"
   },
   {
     "id": 44,
     "name": "Šiauliai",
-    "herbasName": "Šiaulių rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Šiaulių apskritis",
     "file": "Siauliai_rajonas.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šiaulių rajono savivaldybės herbas"
   },
   {
     "id": 45,
     "name": "Šilalė",
-    "herbasName": "Šilalės rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Tauragės apskritis",
     "file": "Silale_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šilalės rajono savivaldybės herbas"
   },
   {
     "id": 46,
     "name": "Šilutė",
-    "herbasName": "Šilutės rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Klaipėdos apskritis",
     "file": "Silute_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šilutės rajono savivaldybės herbas"
   },
   {
     "id": 47,
     "name": "Širvintos",
-    "herbasName": "Širvintų rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Vilniaus apskritis",
     "file": "Sirvintos_rajonas.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Širvintų rajono savivaldybės herbas"
   },
   {
     "id": 48,
     "name": "Švenčionys",
-    "herbasName": "Švenčionių rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Vilniaus apskritis",
     "file": "Svencionys_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Švenčionių rajono savivaldybės herbas"
   },
   {
     "id": 49,
     "name": "Tauragė",
-    "herbasName": "Tauragės rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Tauragės apskritis",
     "file": "Taurage_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Tauragės rajono savivaldybės herbas"
   },
   {
     "id": 50,
     "name": "Telšiai",
-    "herbasName": "Telšių rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Telšių apskritis",
     "file": "Telsiai_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Telšių rajono savivaldybės herbas"
   },
   {
     "id": 51,
     "name": "Trakai",
-    "herbasName": "Trakų rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Vilniaus apskritis",
     "file": "Trakai_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Trakų rajono savivaldybės herbas"
   },
   {
     "id": 52,
     "name": "Ukmergė",
-    "herbasName": "Ukmergės rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Vilniaus apskritis",
     "file": "Ukmerge_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Ukmergės rajono savivaldybės herbas"
   },
   {
     "id": 53,
     "name": "Utena",
-    "herbasName": "Utenos rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Utenos apskritis",
     "file": "Utena_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Utenos rajono savivaldybės herbas"
   },
   {
     "id": 54,
     "name": "Varėna",
-    "herbasName": "Varėnos rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Alytaus apskritis",
     "file": "Varena_rajonas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Varėnos rajono savivaldybės herbas"
   },
   {
     "id": 55,
     "name": "Vilkaviškis",
-    "herbasName": "Vilkaviškio rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Marijampolės apskritis",
     "file": "Vilkaviskis_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vilkaviškio rajono savivaldybės herbas"
   },
   {
     "id": 56,
     "name": "Vilnius",
-    "herbasName": "Vilniaus miesto savivaldybės herbas",
     "type": "Miestas",
     "county": "Vilniaus apskritis",
     "file": "Vilnius.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vilniaus miesto savivaldybės herbas"
   },
   {
     "id": 57,
     "name": "Vilnius",
-    "herbasName": "Vilniaus rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Vilniaus apskritis",
     "file": "Vilnius_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vilniaus rajono savivaldybės herbas"
   },
   {
     "id": 58,
     "name": "Visaginas",
-    "herbasName": "Visagino savivaldybės herbas",
     "type": "Savivaldybė",
     "county": "Utenos apskritis",
     "file": "Visaginas.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Visagino savivaldybės herbas"
   },
   {
     "id": 59,
     "name": "Zarasai",
-    "herbasName": "Zarasų rajono savivaldybės herbas",
     "type": "Rajonas",
     "county": "Utenos apskritis",
     "file": "Zarasai_rajonas.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Zarasų rajono savivaldybės herbas"
   },
   {
     "id": 60,
     "name": "Adutiškio seniūnija",
-    "herbasName": "Adutiškio herbas",
     "type": "Seniūnija",
     "county": "Švenčionių rajono savivaldybė",
     "file": "Adutiskio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Adutiškio herbas"
   },
   {
     "id": 61,
     "name": "Agluonėnų seniūnija",
-    "herbasName": "Agluonėnų herbas",
     "type": "Seniūnija",
     "county": "Klaipėdos rajono savivaldybė",
     "file": "Agluonenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Agluonėnų herbas"
   },
   {
     "id": 62,
     "name": "Akademijos seniūnija",
-    "herbasName": "Akademijos herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Akademijos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Akademijos herbas"
   },
   {
     "id": 63,
     "name": "Alantos seniūnija",
-    "herbasName": "Alantos herbas",
     "type": "Seniūnija",
     "county": "Molėtų rajono savivaldybė",
     "file": "Alantos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Alantos herbas"
   },
   {
     "id": 64,
     "name": "Aleksandrijos seniūnija",
-    "herbasName": "Aleksandrijos herbas",
     "type": "Seniūnija",
     "county": "Skuodo rajono savivaldybė",
     "file": "Aleksandrijos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Aleksandrijos herbas"
   },
   {
     "id": 65,
     "name": "Alovės seniūnija",
-    "herbasName": "Alovės herbas",
     "type": "Seniūnija",
     "county": "Alytaus rajono savivaldybė",
     "file": "Aloves_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Alovės herbas"
   },
   {
     "id": 66,
     "name": "Alsėdžių seniūnija",
-    "herbasName": "Alsėdžių herbas",
     "type": "Seniūnija",
     "county": "Plungės rajono savivaldybė",
     "file": "Alsedziu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Alsėdžių herbas"
   },
   {
     "id": 67,
     "name": "Šeimenos seniūnija",
-    "herbasName": "Alvito herbas",
     "type": "Seniūnija",
     "county": "Vilkaviškio rajono savivaldybė",
     "file": "Seimenos_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Alvito herbas"
   },
   {
     "id": 68,
     "name": "Andrioniškio seniūnija",
-    "herbasName": "Andrioniškio herbas",
     "type": "Seniūnija",
     "county": "Anykščių rajono savivaldybė",
     "file": "Andrioniskio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Andrioniškio herbas"
   },
   {
     "id": 69,
     "name": "-",
-    "herbasName": "Antalieptės herbas",
     "type": "Seniūnija",
     "county": "Zarasų rajono savivaldybė",
     "file": "Antalieptes.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Antalieptės herbas"
   },
   {
     "id": 70,
     "name": "Antanavo seniūnija",
-    "herbasName": "Antanavo herbas",
     "type": "Seniūnija",
     "county": "Kazlų Rūdos savivaldybė",
     "file": "Antanavo_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Antanavo herbas"
   },
   {
     "id": 71,
     "name": "-",
-    "herbasName": "Antazavės herbas",
     "type": "Seniūnija",
     "county": "Zarasų rajono savivaldybė",
     "file": "Antazaves.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Antazavės herbas"
   },
   {
     "id": 72,
     "name": "Ariogalos seniūnija",
-    "herbasName": "Ariogalos herbas",
     "type": "Seniūnija",
     "county": "Raseinių rajono savivaldybė",
     "file": "Ariogalos_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Ariogalos herbas"
   },
   {
     "id": 73,
     "name": "Ašmintos seniūnija",
-    "herbasName": "Ašmintos herbas",
     "type": "Seniūnija",
     "county": "Prienų rajono savivaldybė",
     "file": "Asmintos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Ašmintos herbas"
   },
   {
     "id": 74,
     "name": "Aukštadvario seniūnija",
-    "herbasName": "Aukštadvario herbas",
     "type": "Seniūnija",
     "county": "Trakų rajono savivaldybė",
     "file": "Aukstadvario_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Aukštadvario herbas"
   },
   {
     "id": 75,
     "name": "Avižienių seniūnija",
-    "herbasName": "Avižienių herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Avizieniu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Avižienių herbas"
   },
   {
     "id": 76,
     "name": "Babtų seniūnija",
-    "herbasName": "Babtų herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Babtu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Babtų herbas"
   },
   {
     "id": 77,
     "name": "Baisogalos seniūnija",
-    "herbasName": "Baisogalos herbas",
     "type": "Seniūnija",
     "county": "Radviliškio rajono savivaldybė",
     "file": "Baisogalos_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Baisogalos herbas"
   },
   {
     "id": 78,
     "name": "Balbieriškio seniūnija",
-    "herbasName": "Balbieriškio herbas",
     "type": "Seniūnija",
     "county": "Prienų rajono savivaldybė",
     "file": "Balbieriskio_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Balbieriškio herbas"
   },
   {
     "id": 79,
     "name": "Balninkų seniūnija",
-    "herbasName": "Balninkų herbas",
     "type": "Seniūnija",
     "county": "Molėtų rajono savivaldybė",
     "file": "Balninku_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Balninkų herbas"
   },
   {
     "id": 80,
     "name": "Baltosios Vokės seniūnija",
-    "herbasName": "Baltosios Vokės herbas",
     "type": "Seniūnija",
     "county": "Šalčininkų rajono savivaldybė",
     "file": "Baltosios_Vokes_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Baltosios Vokės herbas"
   },
   {
     "id": 81,
     "name": "Barstyčių seniūnija",
-    "herbasName": "Barstyčių herbas",
     "type": "Seniūnija",
     "county": "Skuodo rajono savivaldybė",
     "file": "Barstyciu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Barstyčių herbas"
   },
   {
     "id": 82,
     "name": "Bartninkų seniūnija",
-    "herbasName": "Bartninkų herbas",
     "type": "Seniūnija",
     "county": "Vilkaviškio rajono savivaldybė",
     "file": "Bartninku_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Bartninkų herbas"
   },
   {
     "id": 83,
     "name": "Barzdų seniūnija",
-    "herbasName": "Barzdų herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Barzdu_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Barzdų herbas"
   },
   {
     "id": 84,
     "name": "Batakių seniūnija",
-    "herbasName": "Batakių herbas",
     "type": "Seniūnija",
     "county": "Tauragės rajono savivaldybė",
     "file": "Batakiu_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Batakių herbas"
   },
   {
     "id": 85,
     "name": "Beižionių seniūnija",
-    "herbasName": "Beižionių herbas",
     "type": "Seniūnija",
     "county": "Elektrėnų savivaldybė",
     "file": "Beizioniu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Beižionių herbas"
   },
   {
     "id": 86,
     "name": "Betygalos seniūnija",
-    "herbasName": "Betygalos herbas",
     "type": "Seniūnija",
     "county": "Raseinių rajono savivaldybė",
     "file": "Betygalos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Betygalos herbas"
   },
   {
     "id": 87,
     "name": "Bijotų seniūnija",
-    "herbasName": "Bijotų herbas",
     "type": "Seniūnija",
     "county": "Šilalės rajono savivaldybė",
     "file": "Bijotu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Bijotų herbas"
   },
   {
     "id": 88,
     "name": "Bilionių seniūnija",
-    "herbasName": "Bilionių herbas",
     "type": "Seniūnija",
     "county": "Šilalės rajono savivaldybė",
     "file": "Bilioniu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Bilionių herbas"
   },
   {
     "id": 89,
     "name": "Batniavos seniūnija",
-    "herbasName": "Bubių herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Batniavos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Bubių herbas"
   },
   {
     "id": 90,
     "name": "Bubių seniūnija",
-    "herbasName": "Bubių herbas",
     "type": "Seniūnija",
     "county": "Šiaulių rajono savivaldybė",
     "file": "Bubiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Bubių herbas"
   },
   {
     "id": 91,
     "name": "Buivydžių seniūnija",
-    "herbasName": "Buivydžių herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Buivydziu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Buivydžių herbas"
   },
   {
     "id": 92,
     "name": "Bukonių seniūnija",
-    "herbasName": "Bukonių herbas",
     "type": "Seniūnija",
     "county": "Jonavos rajono savivaldybė",
     "file": "Bukoniu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Bukonių herbas"
   },
   {
     "id": 93,
     "name": "Butrimonių seniūnija",
-    "herbasName": "Butrimonių herbas",
     "type": "Seniūnija",
     "county": "Alytaus rajono savivaldybė",
     "file": "Butrimoniu_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Butrimonių herbas"
   },
   {
     "id": 94,
     "name": "Čekiškės seniūnija",
-    "herbasName": "Čekiškės herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Cekiskes_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Čekiškės herbas"
   },
   {
     "id": 95,
     "name": "Darbėnų seniūnija",
-    "herbasName": "Darbėnų herbas",
     "type": "Seniūnija",
     "county": "Kretingos rajono savivaldybė",
     "file": "Darbenu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Darbėnų herbas"
   },
   {
     "id": 96,
     "name": "Daugų seniūnija",
-    "herbasName": "Daugų herbas",
     "type": "Seniūnija",
     "county": "Alytaus rajono savivaldybė",
     "file": "Daugu_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Daugų herbas"
   },
   {
     "id": 97,
     "name": "Daugailių seniūnija",
-    "herbasName": "Daugailių herbas",
     "type": "Seniūnija",
     "county": "Utenos rajono savivaldybė",
     "file": "Daugailiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Daugailių herbas"
   },
   {
     "id": 98,
     "name": "Daujėnų seniūnija",
-    "herbasName": "Daujėnų herbas",
     "type": "Seniūnija",
     "county": "Pasvalio rajono savivaldybė",
     "file": "Daujenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Daujėnų herbas"
   },
   {
     "id": 99,
     "name": "Debeikių seniūnija",
-    "herbasName": "Debeikių herbas",
     "type": "Seniūnija",
     "county": "Anykščių rajono savivaldybė",
     "file": "Debeikiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Debeikių herbas"
   },
   {
     "id": 100,
     "name": "-",
-    "herbasName": "Degučių herbas",
     "type": "Seniūnija",
     "county": "Šilutės rajono savivaldybė",
     "file": "Deguciu_Silutes.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Degučių herbas"
   },
   {
     "id": 101,
     "name": "-",
-    "herbasName": "Degučių herbas",
     "type": "Seniūnija",
     "county": "Zarasų rajono savivaldybė",
     "file": "Deguciu_Zarasu.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Degučių herbas"
   },
   {
     "id": 102,
     "name": "Deltuvos seniūnija",
-    "herbasName": "Deltuvos herbas",
     "type": "Seniūnija",
     "county": "Ukmergės rajono savivaldybė",
     "file": "Deltuvos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Deltuvos herbas"
   },
   {
     "id": 103,
     "name": "Riešės seniūnija",
-    "herbasName": "Didžiosios Riešės herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Rieses_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Didžiosios Riešės herbas"
   },
   {
     "id": 104,
     "name": "Dieveniškių seniūnija",
-    "herbasName": "Dieveniškių herbas",
     "type": "Seniūnija",
     "county": "Šalčininkų rajono savivaldybė",
     "file": "Dieveniskiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Dieveniškių herbas"
   },
   {
     "id": 105,
     "name": "Domeikavos seniūnija",
-    "herbasName": "Domeikavos herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Domeikavos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Domeikavos herbas"
   },
   {
     "id": 106,
     "name": "Dotnuvos seniūnija",
-    "herbasName": "Dotnuvos herbas",
     "type": "Seniūnija",
     "county": "Kėdainių rajono savivaldybė",
     "file": "Dotnuvos_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Dotnuvos herbas"
   },
   {
     "id": 107,
     "name": "Dovilų seniūnija",
-    "herbasName": "Dovilų herbas",
     "type": "Seniūnija",
     "county": "Klaipėdos rajono savivaldybė",
     "file": "Dovilu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Dovilų herbas"
   },
   {
     "id": 108,
     "name": "Kaniavos seniūnija?",
-    "herbasName": "Dubičių herbas",
     "type": "Seniūnija",
     "county": "Varėnos rajono savivaldybė",
     "file": "Kaniavos_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Dubičių herbas"
   },
   {
     "id": 109,
     "name": "Dubingių seniūnija",
-    "herbasName": "Dubingių herbas",
     "type": "Seniūnija",
     "county": "Molėtų rajono savivaldybė",
     "file": "Dubingiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Dubingių herbas"
   },
   {
     "id": 110,
     "name": "Dūkšto seniūnija",
-    "herbasName": "Dūkšto herbas",
     "type": "Seniūnija",
     "county": "Ignalinos rajono savivaldybė",
     "file": "Duksto_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Dūkšto herbas"
   },
   {
     "id": 111,
     "name": "Dūkštų seniūnija",
-    "herbasName": "Dūkštų herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Dukstu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Dūkštų herbas"
   },
   {
     "id": 112,
     "name": "Dusetų seniūnija",
-    "herbasName": "Dusetų herbas",
     "type": "Seniūnija",
     "county": "Zarasų rajono savivaldybė",
     "file": "Dusetu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Dusetų herbas"
   },
   {
     "id": 113,
     "name": "Eišiškių seniūnija",
-    "herbasName": "Eišiškių herbas",
     "type": "Seniūnija",
     "county": "Šalčininkų rajono savivaldybė",
     "file": "Eisiskiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Eišiškių herbas"
   },
   {
     "id": 114,
     "name": "Endriejavo seniūnija",
-    "herbasName": "Endriejavo herbas",
     "type": "Seniūnija",
     "county": "Klaipėdos rajono savivaldybė",
     "file": "Endriejavo_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Endriejavo herbas"
   },
   {
     "id": 115,
     "name": "Eržvilko seniūnija",
-    "herbasName": "Eržvilko herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Erzvilko_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Eržvilko herbas"
   },
   {
     "id": 116,
     "name": "Ežerėlio seniūnija",
-    "herbasName": "Ežerėlio herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Ezerelio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Ežerėlio herbas"
   },
   {
     "id": 117,
     "name": "Gadūnavo seniūnija",
-    "herbasName": "Gadūnavo herbas",
     "type": "Seniūnija",
     "county": "Telšių rajono savivaldybė",
     "file": "Gadunavo_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gadūnavo herbas"
   },
   {
     "id": 118,
     "name": "Gaižaičių seniūnija",
-    "herbasName": "Gaižaičių herbas",
     "type": "Seniūnija",
     "county": "Joniškio rajono savivaldybė",
     "file": "Gaizaiciu_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Gaižaičių herbas"
   },
   {
     "id": 119,
     "name": "Gardamo seniūnija",
-    "herbasName": "Gardamo herbas",
     "type": "Seniūnija",
     "county": "Šilutės rajono savivaldybė",
     "file": "Gardamo_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gardamo herbas"
   },
   {
     "id": 120,
     "name": "Garliavos seniūnija",
-    "herbasName": "Garliavos herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Garliavos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Garliavos herbas"
   },
   {
     "id": 121,
     "name": "-",
-    "herbasName": "Gasčiūnų herbas",
     "type": "Seniūnija",
     "county": "Joniškio rajono savivaldybė",
     "file": "Gasciunu.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gasčiūnų herbas"
   },
   {
     "id": 122,
     "name": "Gaurės seniūnija",
-    "herbasName": "Gaurės herbas",
     "type": "Seniūnija",
     "county": "Tauragės rajono savivaldybė",
     "file": "Gaures_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gaurės herbas"
   },
   {
     "id": 123,
     "name": "Gelgaudiškio seniūnija",
-    "herbasName": "Gelgaudiškio herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Gelgaudiskio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gelgaudiškio herbas"
   },
   {
     "id": 124,
     "name": "Gelvonų seniūnija",
-    "herbasName": "Gelvonų herbas",
     "type": "Seniūnija",
     "county": "Širvintų rajono savivaldybė",
     "file": "Gelvonu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gelvonų herbas"
   },
   {
     "id": 125,
     "name": "Giedraičių seniūnija",
-    "herbasName": "Giedraičių herbas",
     "type": "Seniūnija",
     "county": "Molėtų rajono savivaldybė",
     "file": "Giedraiciu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Giedraičių herbas"
   },
   {
     "id": 126,
     "name": "Gilučių seniūnija",
-    "herbasName": "Gilučių herbas",
     "type": "Seniūnija",
     "county": "Elektrėnų savivaldybė",
     "file": "Giluciu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gilučių herbas"
   },
   {
     "id": 127,
     "name": "Ginkūnų seniūnija",
-    "herbasName": "Ginkūnų herbas",
     "type": "Seniūnija",
     "county": "Šiaulių rajono savivaldybė",
     "file": "Ginkunu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Ginkūnų herbas"
   },
   {
     "id": 128,
     "name": "Girdžių seniūnija",
-    "herbasName": "Girdžių herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Girdziu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Girdžių herbas"
   },
   {
     "id": 129,
     "name": "Girkalnio seniūnija",
-    "herbasName": "Girkalnio herbas",
     "type": "Seniūnija",
     "county": "Raseinių rajono savivaldybė",
     "file": "Girkalnio_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Girkalnio herbas"
   },
   {
     "id": 130,
     "name": "Gižų seniūnija",
-    "herbasName": "Gižų herbas",
     "type": "Seniūnija",
     "county": "Vilkaviškio rajono savivaldybė",
     "file": "Gizu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gižų herbas"
   },
   {
     "id": 131,
     "name": "Gražiškių seniūnija",
-    "herbasName": "Gražiškių herbas",
     "type": "Seniūnija",
     "county": "Vilkaviškio rajono savivaldybė",
     "file": "Graziskiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gražiškių herbas"
   },
   {
     "id": 132,
     "name": "Grendavės seniūnija",
-    "herbasName": "Grendavės herbas",
     "type": "Seniūnija",
     "county": "Trakų rajono savivaldybė",
     "file": "Grendaves_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Grendavės herbas"
   },
   {
     "id": 133,
     "name": "Grigiškių seniūnija",
-    "herbasName": "Grigiškių herbas",
     "type": "Seniūnija",
     "county": "Vilniaus miesto savivaldybė",
     "file": "Grigiskiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Grigiškių herbas"
   },
   {
     "id": 134,
     "name": "Grinkiškio seniūnija",
-    "herbasName": "Grinkiškio herbas",
     "type": "Seniūnija",
     "county": "Radviliškio rajono savivaldybė",
     "file": "Grinkiskio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Grinkiškio herbas"
   },
   {
     "id": 135,
     "name": "Griškabūdžio seniūnija",
-    "herbasName": "Griškabūdžio herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Griskabudzio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Griškabūdžio herbas"
   },
   {
     "id": 136,
     "name": "Gruzdžių seniūnija",
-    "herbasName": "Gruzdžių herbas",
     "type": "Seniūnija",
     "county": "Šiaulių rajono savivaldybė",
     "file": "Gruzdziu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gruzdžių herbas"
   },
   {
     "id": 137,
     "name": "-",
-    "herbasName": "Gudelių herbas",
     "type": "Seniūnija",
     "county": "Marijampolės savivaldybė",
     "file": "Gudeliu.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gudelių herbas"
   },
   {
     "id": 138,
     "name": "Gudžiūnų seniūnija",
-    "herbasName": "Gudžiūnų herbas",
     "type": "Seniūnija",
     "county": "Kėdainių rajono savivaldybė",
     "file": "Gudziunu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Gudžiūnų herbas"
   },
   {
     "id": 139,
     "name": "Guostagalio seniūnija",
-    "herbasName": "Guostagalio herbas",
     "type": "Seniūnija",
     "county": "Pakruojo rajono savivaldybė",
     "file": "Guostagalio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Guostagalio herbas"
   },
   {
     "id": 140,
     "name": "Igliaukos seniūnija",
-    "herbasName": "Igliaukos herbas",
     "type": "Seniūnija",
     "county": "Marijampolės savivaldybė",
     "file": "Igliaukos_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Igliaukos herbas"
   },
   {
     "id": 141,
     "name": "Ylakių seniūnija",
-    "herbasName": "Ylakių herbas",
     "type": "Seniūnija",
     "county": "Skuodo rajono savivaldybė",
     "file": "Ylakiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Ylakių herbas"
   },
   {
     "id": 142,
     "name": "Garliavos apylinkių seniūnija",
-    "herbasName": "Ilgakiemio herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Garliavos_apylinkiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Ilgakiemio herbas"
   },
   {
     "id": 143,
     "name": "Imbrado seniūnija",
-    "herbasName": "Imbrado herbas",
     "type": "Seniūnija",
     "county": "Zarasų rajono savivaldybė",
     "file": "Imbrado_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Imbrado herbas"
   },
   {
     "id": 144,
     "name": "Inturkės seniūnija",
-    "herbasName": "Inturkės herbas",
     "type": "Seniūnija",
     "county": "Molėtų rajono savivaldybė",
     "file": "Inturkes_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Inturkės herbas"
   },
   {
     "id": 145,
     "name": "Išlaužo seniūnija",
-    "herbasName": "Išlaužo herbas",
     "type": "Seniūnija",
     "county": "Prienų rajono savivaldybė",
     "file": "Islauzo_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Išlaužo herbas"
   },
   {
     "id": 146,
     "name": "Jankų seniūnija",
-    "herbasName": "Jankų herbas",
     "type": "Seniūnija",
     "county": "Kazlų Rūdos savivaldybė",
     "file": "Janku_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Jankų herbas"
   },
   {
     "id": 147,
     "name": "Jašiūnų seniūnija",
-    "herbasName": "Jašiūnų herbas",
     "type": "Seniūnija",
     "county": "Šalčininkų rajono savivaldybė",
     "file": "Jasiunu_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Jašiūnų herbas"
   },
   {
     "id": 148,
     "name": "Jiezno seniūnija",
-    "herbasName": "Jiezno herbas",
     "type": "Seniūnija",
     "county": "Prienų rajono savivaldybė",
     "file": "Jiezno_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Jiezno herbas"
   },
   {
     "id": 149,
     "name": "Joniškėlio miesto seniūnija",
-    "herbasName": "Joniškėlio herbas",
     "type": "Seniūnija",
     "county": "Pasvalio rajono savivaldybė",
     "file": "Joniskelio_miesto_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Joniškėlio herbas"
   },
   {
     "id": 150,
     "name": "Joniškio seniūnija",
-    "herbasName": "Joniškio herbas",
     "type": "Seniūnija",
     "county": "Molėtų rajono savivaldybė",
     "file": "Joniskio_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Joniškio herbas"
   },
   {
     "id": 151,
     "name": "Josvainių seniūnija",
-    "herbasName": "Josvainių herbas",
     "type": "Seniūnija",
     "county": "Kėdainių rajono savivaldybė",
     "file": "Josvainiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Josvainių herbas"
   },
   {
     "id": 152,
     "name": "Judrėnų seniūnija",
-    "herbasName": "Judrėnų herbas",
     "type": "Seniūnija",
     "county": "Klaipėdos rajono savivaldybė",
     "file": "Judrenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Judrėnų herbas"
   },
   {
     "id": 153,
     "name": "Juknaičių seniūnija",
-    "herbasName": "Juknaičių herbas",
     "type": "Seniūnija",
     "county": "Šilutės rajono savivaldybė",
     "file": "Juknaiciu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Juknaičių herbas"
   },
   {
     "id": 154,
     "name": "Juodupės seniūnija",
-    "herbasName": "Juodupės herbas",
     "type": "Seniūnija",
     "county": "Rokiškio rajono savivaldybė",
     "file": "Juodupes_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Juodupės herbas"
   },
   {
     "id": 155,
     "name": "Jurbarkų seniūnija",
-    "herbasName": "Jurbarkų herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Jurbarku_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Jurbarkų herbas"
   },
   {
     "id": 156,
     "name": "Kazlų Rūdos seniūnija",
-    "herbasName": "Jūrės herbas",
     "type": "Seniūnija",
     "county": "Kazlų Rūdos savivaldybė",
     "file": "Kazlu_Rudos_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Jūrės herbas"
   },
   {
     "id": 157,
     "name": "Kačerginės seniūnija",
-    "herbasName": "Kačerginės herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Kacergines_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kačerginės herbas"
   },
   {
     "id": 158,
     "name": "Kairių seniūnija",
-    "herbasName": "Kairių herbas",
     "type": "Seniūnija",
     "county": "Šiaulių rajono savivaldybė",
     "file": "Kairiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kairių herbas"
   },
   {
     "id": 159,
     "name": "Kalnujų seniūnija",
-    "herbasName": "Kalnujų herbas",
     "type": "Seniūnija",
     "county": "Raseinių rajono savivaldybė",
     "file": "Kalnuju_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kalnujų herbas"
   },
   {
     "id": 160,
     "name": "Kaltanėnų seniūnija",
-    "herbasName": "Kaltanėnų herbas",
     "type": "Seniūnija",
     "county": "Švenčionių rajono savivaldybė",
     "file": "Kaltanenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kaltanėnų herbas"
   },
   {
     "id": 161,
     "name": "Kaltinėnų seniūnija",
-    "herbasName": "Kaltinėnų herbas",
     "type": "Seniūnija",
     "county": "Šilalės rajono savivaldybė",
     "file": "Kaltinenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kaltinėnų herbas"
   },
   {
     "id": 162,
     "name": "Kalvelių seniūnija",
-    "herbasName": "Kalvelių herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Kalveliu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kalvelių herbas"
   },
   {
     "id": 163,
     "name": "Kamajų seniūnija",
-    "herbasName": "Kamajų herbas",
     "type": "Seniūnija",
     "county": "Rokiškio rajono savivaldybė",
     "file": "Kamaju_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kamajų herbas"
   },
   {
     "id": 164,
     "name": "Kapčiamiesčio seniūnija",
-    "herbasName": "Kapčiamiesčio herbas",
     "type": "Seniūnija",
     "county": "Lazdijų rajono savivaldybė",
     "file": "Kapciamiescio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kapčiamiesčio herbas"
   },
   {
     "id": 165,
     "name": "-",
-    "herbasName": "Kareivonių herbas",
     "type": "Seniūnija",
     "county": "Varėnos rajono savivaldybė",
     "file": "Kareivoniu.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kareivonių herbas"
   },
   {
     "id": 166,
     "name": "Karmėlavos seniūnija",
-    "herbasName": "Karmėlavos herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Karmelavos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Karmėlavos herbas"
   },
   {
     "id": 167,
     "name": "Karsakiškio seniūnija",
-    "herbasName": "Karsakiškio herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Karsakiskio_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Karsakiškio herbas"
   },
   {
     "id": 168,
     "name": "Kartenos seniūnija",
-    "herbasName": "Kartenos herbas",
     "type": "Seniūnija",
     "county": "Kretingos rajono savivaldybė",
     "file": "Kartenos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kartenos herbas"
   },
   {
     "id": 169,
     "name": "Katyčių seniūnija",
-    "herbasName": "Katyčių herbas",
     "type": "Seniūnija",
     "county": "Šilutės rajono savivaldybė",
     "file": "Katyciu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Katyčių herbas"
   },
   {
     "id": 170,
     "name": "Pagojukų seniūnija",
-    "herbasName": "Kaulakių herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Pagojuku_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kaulakių herbas"
   },
   {
     "id": 171,
     "name": "Kavarsko seniūnija",
-    "herbasName": "Kavarsko herbas",
     "type": "Seniūnija",
     "county": "Anykščių rajono savivaldybė",
     "file": "Kavarsko_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kavarsko herbas"
   },
   {
     "id": 172,
     "name": "Kazokiškių seniūnija",
-    "herbasName": "Kazokiškių herbas",
     "type": "Seniūnija",
     "county": "Elektrėnų savivaldybė",
     "file": "Kazokiskiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kazokiškių herbas"
   },
   {
     "id": 173,
     "name": "Kernavės seniūnija",
-    "herbasName": "Kernavės herbas",
     "type": "Seniūnija",
     "county": "Širvintų rajono savivaldybė",
     "file": "Kernaves_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kernavės herbas"
   },
   {
     "id": 174,
     "name": "Keturvalakių seniūnija",
-    "herbasName": "Keturvalakių herbas",
     "type": "Seniūnija",
     "county": "Vilkaviškio rajono savivaldybė",
     "file": "Keturvalakiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Keturvalakių herbas"
   },
   {
     "id": 175,
     "name": "Kybartų seniūnija",
-    "herbasName": "Kybartų herbas",
     "type": "Seniūnija",
     "county": "Vilkaviškio rajono savivaldybė",
     "file": "Kybartu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kybartų herbas"
   },
   {
     "id": 176,
     "name": "Kidulių seniūnija",
-    "herbasName": "Kidulių herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Kiduliu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kidulių herbas"
   },
   {
     "id": 177,
     "name": "Kietaviškių seniūnija",
-    "herbasName": "Kietaviškių herbas",
     "type": "Seniūnija",
     "county": "Elektrėnų savivaldybė",
     "file": "Kietaviskiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kietaviškių herbas"
   },
   {
     "id": 178,
     "name": "Kintų seniūnija",
-    "herbasName": "Kintų herbas",
     "type": "Seniūnija",
     "county": "Šilutės rajono savivaldybė",
     "file": "Kintu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kintų herbas"
   },
   {
     "id": 179,
     "name": "Širvėnos seniūnija?",
-    "herbasName": "Kirkilų herbas",
     "type": "Seniūnija",
     "county": "Biržų rajono savivaldybė",
     "file": "Sirvenos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kirkilų herbas"
   },
   {
     "id": 180,
     "name": "Kepalių seniūnija",
-    "herbasName": "Kirnaičių herbas",
     "type": "Seniūnija",
     "county": "Joniškio rajono savivaldybė",
     "file": "Kepaliu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kirnaičių herbas"
   },
   {
     "id": 181,
     "name": "Klausučių seniūnija",
-    "herbasName": "Klausučių herbas",
     "type": "Seniūnija",
     "county": "Vilkaviškio rajono savivaldybė",
     "file": "Klausuciu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Klausučių herbas"
   },
   {
     "id": 182,
     "name": "Klovainių seniūnija",
-    "herbasName": "Klovainių herbas",
     "type": "Seniūnija",
     "county": "Pakruojo rajono savivaldybė",
     "file": "Klovainiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Klovainių herbas"
   },
   {
     "id": 183,
     "name": "Krakių seniūnija",
-    "herbasName": "Krakių herbas",
     "type": "Seniūnija",
     "county": "Kėdainių rajono savivaldybė",
     "file": "Krakiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Krakių herbas"
   },
   {
     "id": 184,
     "name": "Kražių seniūnija",
-    "herbasName": "Kražių herbas",
     "type": "Seniūnija",
     "county": "Kelmės rajono savivaldybė",
     "file": "Kraziu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kražių herbas"
   },
   {
     "id": 185,
     "name": "Krekenavos seniūnija",
-    "herbasName": "Krekenavos herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Krekenavos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Krekenavos herbas"
   },
   {
     "id": 186,
     "name": "Kretingalės seniūnija",
-    "herbasName": "Kretingalės herbas",
     "type": "Seniūnija",
     "county": "Klaipėdos rajono savivaldybė",
     "file": "Kretingales_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kretingalės herbas"
   },
   {
     "id": 187,
     "name": "Kriaunų seniūnija",
-    "herbasName": "Kriaunų herbas",
     "type": "Seniūnija",
     "county": "Rokiškio rajono savivaldybė",
     "file": "Kriaunu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kriaunų herbas"
   },
   {
     "id": 188,
     "name": "-",
-    "herbasName": "Krikštonių herbas",
     "type": "Seniūnija",
     "county": "Lazdijų rajono savivaldybė",
     "file": "Krikstoniu.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Krikštonių herbas"
   },
   {
     "id": 189,
     "name": "Krinčino seniūnija",
-    "herbasName": "Krinčino herbas",
     "type": "Seniūnija",
     "county": "Pasvalio rajono savivaldybė",
     "file": "Krincino_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Krinčino herbas"
   },
   {
     "id": 190,
     "name": "Kriukų seniūnija",
-    "herbasName": "Kriukų herbas",
     "type": "Seniūnija",
     "county": "Joniškio rajono savivaldybė",
     "file": "Kriuku_seniunija_Joniskio.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kriukų herbas"
   },
   {
     "id": 191,
     "name": "Kriūkų seniūnija",
-    "herbasName": "Kriūkų herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Kriuku_seniunija_Sakiu.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kriūkų herbas"
   },
   {
     "id": 192,
     "name": "Krokialaukio seniūnija",
-    "herbasName": "Krokialaukio herbas",
     "type": "Seniūnija",
     "county": "Alytaus rajono savivaldybė",
     "file": "Krokialaukio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Krokialaukio herbas"
   },
   {
     "id": 193,
     "name": "Krosnos seniūnija",
-    "herbasName": "Krosnos herbas",
     "type": "Seniūnija",
     "county": "Lazdijų rajono savivaldybė",
     "file": "Krosnos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Krosnos herbas"
   },
   {
     "id": 194,
     "name": "Kruonio seniūnija",
-    "herbasName": "Kruonio herbas",
     "type": "Seniūnija",
     "county": "Kaišiadorių rajono savivaldybė",
     "file": "Kruonio_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Kruonio herbas"
   },
   {
     "id": 195,
     "name": "Kruopių seniūnija",
-    "herbasName": "Kruopių herbas",
     "type": "Seniūnija",
     "county": "Akmenės rajono savivaldybė",
     "file": "Kruopiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kruopių herbas"
   },
   {
     "id": 196,
     "name": "Kudirkos Naumiesčio seniūnija",
-    "herbasName": "Kudirkos Naumiesčio herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Kudirkos_Naumiescio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kudirkos Naumiesčio herbas"
   },
   {
     "id": 197,
     "name": "Kuktiškių seniūnija",
-    "herbasName": "Kuktiškių herbas",
     "type": "Seniūnija",
     "county": "Utenos rajono savivaldybė",
     "file": "Kuktiskiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kuktiškių herbas"
   },
   {
     "id": 198,
     "name": "Kulautuvos seniūnija",
-    "herbasName": "Kulautuvos herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Kulautuvos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kulautuvos herbas"
   },
   {
     "id": 199,
     "name": "Kulių seniūnija",
-    "herbasName": "Kulių herbas",
     "type": "Seniūnija",
     "county": "Plungės rajono savivaldybė",
     "file": "Kuliu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kulių herbas"
   },
   {
     "id": 200,
     "name": "Kulvos seniūnija",
-    "herbasName": "Kulvos herbas",
     "type": "Seniūnija",
     "county": "Jonavos rajono savivaldybė",
     "file": "Kulvos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kulvos herbas"
   },
   {
     "id": 201,
     "name": "Kurklių seniūnija",
-    "herbasName": "Kurklių herbas",
     "type": "Seniūnija",
     "county": "Anykščių rajono savivaldybė",
     "file": "Kurkliu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kurklių herbas"
   },
   {
     "id": 202,
     "name": "Kuršėnų miesto seniūnija",
-    "herbasName": "Kuršėnų herbas",
     "type": "Seniūnija",
     "county": "Šiaulių rajono savivaldybė",
     "file": "Kursenu_miesto_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kuršėnų herbas"
   },
   {
     "id": 203,
     "name": "-",
-    "herbasName": "Kurtuvėnų herbas",
     "type": "Seniūnija",
     "county": "Šiaulių rajono savivaldybė",
     "file": "Kurtuvenu.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kurtuvėnų herbas"
   },
   {
     "id": 204,
     "name": "Kužių seniūnija",
-    "herbasName": "Kužių herbas",
     "type": "Seniūnija",
     "county": "Šiaulių rajono savivaldybė",
     "file": "Kuziu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kužių herbas"
   },
   {
     "id": 205,
     "name": "Kvėdarnos seniūnija",
-    "herbasName": "Kvėdarnos herbas",
     "type": "Seniūnija",
     "county": "Šilalės rajono savivaldybė",
     "file": "Kvedarnos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kvėdarnos herbas"
   },
   {
     "id": 206,
     "name": "Dauparų-Kvietinių seniūnija",
-    "herbasName": "Kvietinių herbas",
     "type": "Seniūnija",
     "county": "Klaipėdos rajono savivaldybė",
     "file": "Dauparu_Kvietiniu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Kvietinių herbas"
   },
   {
     "id": 207,
     "name": "Labanoro seniūnija",
-    "herbasName": "Labanoro herbas",
     "type": "Seniūnija",
     "county": "Švenčionių rajono savivaldybė",
     "file": "Labanoro_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Labanoro herbas"
   },
   {
     "id": 208,
     "name": "Laižuvos seniūnija",
-    "herbasName": "Laižuvos herbas",
     "type": "Seniūnija",
     "county": "Mažeikių rajono savivaldybė",
     "file": "Laizuvos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Laižuvos herbas"
   },
   {
     "id": 209,
     "name": "Lapių seniūnija",
-    "herbasName": "Lapių herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Lapiu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Lapių herbas"
   },
   {
     "id": 210,
     "name": "Lauksargių seniūnija",
-    "herbasName": "Lauksargių herbas",
     "type": "Seniūnija",
     "county": "Tauragės rajono savivaldybė",
     "file": "Lauksargiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Lauksargių herbas"
   },
   {
     "id": 211,
     "name": "Laukuvos seniūnija",
-    "herbasName": "Laukuvos herbas",
     "type": "Seniūnija",
     "county": "Šilalės rajono savivaldybė",
     "file": "Laukuvos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Laukuvos herbas"
   },
   {
     "id": 212,
     "name": "Lavoriškių seniūnija",
-    "herbasName": "Lavoriškių herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Lavoriskiu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Lavoriškių herbas"
   },
   {
     "id": 213,
     "name": "Reivyčių seniūnija",
-    "herbasName": "Leckavos herbas",
     "type": "Seniūnija",
     "county": "Mažeikių rajono savivaldybė",
     "file": "Reivyciu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Leckavos herbas"
   },
   {
     "id": 214,
     "name": "Leipalingio seniūnija",
-    "herbasName": "Leipalingio herbas",
     "type": "Seniūnija",
     "county": "Druskininkų savivaldybė",
     "file": "Leipalingio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Leipalingio herbas"
   },
   {
     "id": 215,
     "name": "Lekėčių seniūnija",
-    "herbasName": "Lekėčių herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Lekeciu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Lekėčių herbas"
   },
   {
     "id": 216,
     "name": "Leliūnų seniūnija",
-    "herbasName": "Leliūnų herbas",
     "type": "Seniūnija",
     "county": "Utenos rajono savivaldybė",
     "file": "Leliunu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Leliūnų herbas"
   },
   {
     "id": 217,
     "name": "Lenkimų seniūnija",
-    "herbasName": "Lenkimų herbas",
     "type": "Seniūnija",
     "county": "Skuodo rajono savivaldybė",
     "file": "Lenkimu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Lenkimų herbas"
   },
   {
     "id": 218,
     "name": "Lentvario seniūnija",
-    "herbasName": "Lentvario herbas",
     "type": "Seniūnija",
     "county": "Trakų rajono savivaldybė",
     "file": "Lentvario_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Lentvario herbas"
   },
   {
     "id": 219,
     "name": "Lyduokių seniūnija",
-    "herbasName": "Lyduokių herbas",
     "type": "Seniūnija",
     "county": "Ukmergės rajono savivaldybė",
     "file": "Lyduokiu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Lyduokių herbas"
   },
   {
     "id": 220,
     "name": "Lygumų seniūnija",
-    "herbasName": "Lygumų herbas",
     "type": "Seniūnija",
     "county": "Pakruojo rajono savivaldybė",
     "file": "Lygumu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Lygumų herbas"
   },
   {
     "id": 221,
     "name": "Linksmakalnio seniūnija",
-    "herbasName": "Linksmakalnio herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Linksmakalnio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Linksmakalnio herbas"
   },
   {
     "id": 222,
     "name": "Linkuvos seniūnija",
-    "herbasName": "Linkuvos herbas",
     "type": "Seniūnija",
     "county": "Pakruojo rajono savivaldybė",
     "file": "Linkuvos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Linkuvos herbas"
   },
   {
     "id": 223,
     "name": "Liolių seniūnija",
-    "herbasName": "Liolių herbas",
     "type": "Seniūnija",
     "county": "Kelmės rajono savivaldybė",
     "file": "Lioliu_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Liolių herbas"
   },
   {
     "id": 224,
     "name": "Liubavo seniūnija",
-    "herbasName": "Liubavo herbas",
     "type": "Seniūnija",
     "county": "Kalvarijos savivaldybė",
     "file": "Liubavo_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Liubavo herbas"
   },
   {
     "id": 225,
     "name": "Liudvinavo seniūnija",
-    "herbasName": "Liudvinavo herbas",
     "type": "Seniūnija",
     "county": "Marijampolės savivaldybė",
     "file": "Liudvinavo_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Liudvinavo herbas"
   },
   {
     "id": 226,
     "name": "Lukšių seniūnija",
-    "herbasName": "Lukšių herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Luksiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Lukšių herbas"
   },
   {
     "id": 227,
     "name": "Lumpėnų seniūnija",
-    "herbasName": "Lumpėnų herbas",
     "type": "Seniūnija",
     "county": "Pagėgių savivaldybė",
     "file": "Lumpenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Lumpėnų herbas"
   },
   {
     "id": 228,
     "name": "Luokės seniūnija",
-    "herbasName": "Luokės herbas",
     "type": "Seniūnija",
     "county": "Telšių rajono savivaldybė",
     "file": "Luokes_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Luokės herbas"
   },
   {
     "id": 229,
     "name": "Maišiagalos seniūnija",
-    "herbasName": "Maišiagalos herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Maisiagalos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Maišiagalos herbas"
   },
   {
     "id": 230,
     "name": "Marcinkonių seniūnija",
-    "herbasName": "Marcinkonių herbas",
     "type": "Seniūnija",
     "county": "Varėnos rajono savivaldybė",
     "file": "Marcinkoniu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Marcinkonių herbas"
   },
   {
     "id": 231,
     "name": "Marijampolio seniūnija",
-    "herbasName": "Marijampolio herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Marijampolio_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Marijampolio herbas"
   },
   {
     "id": 232,
     "name": "Alšėnų seniūnija",
-    "herbasName": "Mastaičių herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Alsenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Mastaičių herbas"
   },
   {
     "id": 233,
     "name": "Matuizų seniūnija",
-    "herbasName": "Matuizų herbas",
     "type": "Seniūnija",
     "county": "Varėnos rajono savivaldybė",
     "file": "Matuizu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Matuizų herbas"
   },
   {
     "id": 234,
     "name": "Mažonų seniūnija",
-    "herbasName": "Mažonų herbas",
     "type": "Seniūnija",
     "county": "Tauragės rajono savivaldybė",
     "file": "Mazonu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Mažonų herbas"
   },
   {
     "id": 235,
     "name": "Medingėnų seniūnija",
-    "herbasName": "Medingėnų herbas",
     "type": "Seniūnija",
     "county": "Rietavo savivaldybė",
     "file": "Medingenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Medingėnų herbas"
   },
   {
     "id": 236,
     "name": "Medininkų seniūnija",
-    "herbasName": "Medininkų herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Medininku_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Medininkų herbas"
   },
   {
     "id": 237,
     "name": "Merkinės seniūnija",
-    "herbasName": "Merkinės herbas",
     "type": "Seniūnija",
     "county": "Varėnos rajono savivaldybė",
     "file": "Merkines_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Merkinės herbas"
   },
   {
     "id": 238,
     "name": "Meškuičių seniūnija",
-    "herbasName": "Meškuičių herbas",
     "type": "Seniūnija",
     "county": "Šiaulių rajono savivaldybė",
     "file": "Meskuiciu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Meškuičių herbas"
   },
   {
     "id": 239,
     "name": "Mickūnų seniūnija",
-    "herbasName": "Mickūnų herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Mickunu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Mickūnų herbas"
   },
   {
     "id": 240,
     "name": "Mielagėnų seniūnija",
-    "herbasName": "Mielagėnų herbas",
     "type": "Seniūnija",
     "county": "Ignalinos rajono savivaldybė",
     "file": "Mielagenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Mielagėnų herbas"
   },
   {
     "id": 241,
     "name": "Miežiškių seniūnija",
-    "herbasName": "Miežiškių herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Mieziskiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Miežiškių herbas"
   },
   {
     "id": 242,
     "name": "Miroslavo seniūnija",
-    "herbasName": "Miroslavo herbas",
     "type": "Seniūnija",
     "county": "Alytaus rajono savivaldybė",
     "file": "Miroslavo_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Miroslavo herbas"
   },
   {
     "id": 243,
     "name": "Mosėdžio seniūnija",
-    "herbasName": "Mosėdžio herbas",
     "type": "Seniūnija",
     "county": "Skuodo rajono savivaldybė",
     "file": "Mosedzio_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Mosėdžio herbas"
   },
   {
     "id": 244,
     "name": "Musninkų seniūnija",
-    "herbasName": "Musninkų herbas",
     "type": "Seniūnija",
     "county": "Širvintų rajono savivaldybė",
     "file": "Musninku_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Musninkų herbas"
   },
   {
     "id": 245,
     "name": "-",
-    "herbasName": "Naisių herbas",
     "type": "Seniūnija",
     "county": "Šiaulių rajono savivaldybė",
     "file": "Naisiu.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Naisių herbas"
   },
   {
     "id": 246,
     "name": "Namišių seniūnija",
-    "herbasName": "Namišių herbas",
     "type": "Seniūnija",
     "county": "Pasvalio rajono savivaldybė",
     "file": "Namisiu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Namišių herbas"
   },
   {
     "id": 247,
     "name": "Natkiškių seniūnija",
-    "herbasName": "Natkiškių herbas",
     "type": "Seniūnija",
     "county": "Pagėgių savivaldybė",
     "file": "Natkiskiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Natkiškių herbas"
   },
   {
     "id": 248,
     "name": "Naujamiesčio seniūnija",
-    "herbasName": "Naujamiesčio herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Naujamiescio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Naujamiesčio herbas"
   },
   {
     "id": 249,
     "name": "Naujosios Akmenės miesto seniūnija",
-    "herbasName": "Naujosios Akmenės herbas",
     "type": "Seniūnija",
     "county": "Akmenės rajono savivaldybė",
     "file": "Naujosios_Akmenes_miesto_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Naujosios Akmenės herbas"
   },
   {
     "id": 250,
     "name": "Naujosios Ūtos seniūnija",
-    "herbasName": "Naujosios Ūtos herbas",
     "type": "Seniūnija",
     "county": "Prienų rajono savivaldybė",
     "file": "Naujosios_Utos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Naujosios Ūtos herbas"
   },
   {
     "id": 251,
     "name": "Nemakščių seniūnija",
-    "herbasName": "Nemakščių herbas",
     "type": "Seniūnija",
     "county": "Raseinių rajono savivaldybė",
     "file": "Nemaksciu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Nemakščių herbas"
   },
   {
     "id": 252,
     "name": "Nemenčinės miesto seniūnija",
-    "herbasName": "Nemenčinės herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Nemencines_miesto_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Nemenčinės herbas"
   },
   {
     "id": 253,
     "name": "Nemėžio seniūnija",
-    "herbasName": "Nemėžio herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Nemezio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Nemėžio herbas"
   },
   {
     "id": 254,
     "name": "Nemunaičio seniūnija",
-    "herbasName": "Nemunaičio herbas",
     "type": "Seniūnija",
     "county": "Alytaus rajono savivaldybė",
     "file": "Nemunaicio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Nemunaičio herbas"
   },
   {
     "id": 255,
     "name": "Nemunėlio Radviliškio seniūnija",
-    "herbasName": "Nemunėlio Radviliškio herbas",
     "type": "Seniūnija",
     "county": "Biržų rajono savivaldybė",
     "file": "Nemunelio_Radviliskio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Nemunėlio Radviliškio herbas"
   },
   {
     "id": 256,
     "name": "Nevarėnų seniūnija",
-    "herbasName": "Nevarėnų herbas",
     "type": "Seniūnija",
     "county": "Telšių rajono savivaldybė",
     "file": "Nevarenu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Nevarėnų herbas"
   },
   {
     "id": 257,
     "name": "Neveronių seniūnija",
-    "herbasName": "Neveronių herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Neveroniu_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Neveronių herbas"
   },
   {
     "id": 258,
     "name": "Notėnų seniūnija",
-    "herbasName": "Notėnų herbas",
     "type": "Seniūnija",
     "county": "Skuodo rajono savivaldybė",
     "file": "Notenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Notėnų herbas"
   },
   {
     "id": 259,
     "name": "Obelių seniūnija",
-    "herbasName": "Obelių herbas",
     "type": "Seniūnija",
     "county": "Rokiškio rajono savivaldybė",
     "file": "Obeliu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Obelių herbas"
   },
   {
     "id": 260,
     "name": "Onuškio seniūnija",
-    "herbasName": "Onuškio herbas",
     "type": "Seniūnija",
     "county": "Trakų rajono savivaldybė",
     "file": "Onuskio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Onuškio herbas"
   },
   {
     "id": 261,
     "name": "Pabaisko seniūnija",
-    "herbasName": "Pabaisko herbas",
     "type": "Seniūnija",
     "county": "Ukmergės rajono savivaldybė",
     "file": "Pabaisko_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pabaisko herbas"
   },
   {
     "id": 262,
     "name": "Pabarės seniūnija",
-    "herbasName": "Pabarės herbas",
     "type": "Seniūnija",
     "county": "Šalčininkų rajono savivaldybė",
     "file": "Pabares_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pabarės herbas"
   },
   {
     "id": 263,
     "name": "Paberžės seniūnija",
-    "herbasName": "Paberžės herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Paberzes_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Paberžės herbas"
   },
   {
     "id": 264,
     "name": "Pabradės seniūnija",
-    "herbasName": "Pabradės herbas",
     "type": "Seniūnija",
     "county": "Švenčionių rajono savivaldybė",
     "file": "Pabrades_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Pabradės herbas"
   },
   {
     "id": 265,
     "name": "-",
-    "herbasName": "Pagirių herbas",
     "type": "Seniūnija",
     "county": "Kėdainių rajono savivaldybė",
     "file": "Pagiriu.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pagirių herbas"
   },
   {
     "id": 266,
     "name": "Pagirių seniūnija",
-    "herbasName": "Pagirių herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Pagiriu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pagirių herbas"
   },
   {
     "id": 267,
     "name": "-",
-    "herbasName": "Pagramančio herbas",
     "type": "Seniūnija",
     "county": "Tauragės rajono savivaldybė",
     "file": "Pagramancio.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pagramančio herbas"
   },
   {
     "id": 268,
     "name": "Paįstrio seniūnija",
-    "herbasName": "Paįstrio herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Paistrio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Paįstrio herbas"
   },
   {
     "id": 269,
     "name": "Pajevonio seniūnija",
-    "herbasName": "Pajevonio herbas",
     "type": "Seniūnija",
     "county": "Vilkaviškio rajono savivaldybė",
     "file": "Pajevonio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pajevonio herbas"
   },
   {
     "id": 270,
     "name": "Pajūrio seniūnija",
-    "herbasName": "Pajūrio herbas",
     "type": "Seniūnija",
     "county": "Šilalės rajono savivaldybė",
     "file": "Pajurio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pajūrio herbas"
   },
   {
     "id": 271,
     "name": "Pakuonio seniūnija",
-    "herbasName": "Pakuonio herbas",
     "type": "Seniūnija",
     "county": "Prienų rajono savivaldybė",
     "file": "Pakuonio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pakuonio herbas"
   },
   {
     "id": 272,
     "name": "Palomenės seniūnija",
-    "herbasName": "Palomenės herbas",
     "type": "Seniūnija",
     "county": "Kaišiadorių rajono savivaldybė",
     "file": "Palomenes_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Palomenės herbas"
   },
   {
     "id": 273,
     "name": "Paluknio seniūnija",
-    "herbasName": "Paluknio herbas",
     "type": "Seniūnija",
     "county": "Trakų rajono savivaldybė",
     "file": "Paluknio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Paluknio herbas"
   },
   {
     "id": 274,
     "name": "Pandėlio seniūnija",
-    "herbasName": "Pandėlio herbas",
     "type": "Seniūnija",
     "county": "Rokiškio rajono savivaldybė",
     "file": "Pandelio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pandėlio herbas"
   },
   {
     "id": 275,
     "name": "-",
-    "herbasName": "Panoterių herbas",
     "type": "Seniūnija",
     "county": "Jonavos rajono savivaldybė",
     "file": "Panoteriu.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Panoterių herbas"
   },
   {
     "id": 276,
     "name": "Papilės seniūnija",
-    "herbasName": "Papilės herbas",
     "type": "Seniūnija",
     "county": "Akmenės rajono savivaldybė",
     "file": "Papiles_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Papilės herbas"
   },
   {
     "id": 277,
     "name": "Papilio seniūnija",
-    "herbasName": "Papilio herbas",
     "type": "Seniūnija",
     "county": "Biržų rajono savivaldybė",
     "file": "Papilio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Papilio herbas"
   },
   {
     "id": 278,
     "name": "Pastrėvio seniūnija",
-    "herbasName": "Pastrėvio herbas",
     "type": "Seniūnija",
     "county": "Elektrėnų savivaldybė",
     "file": "Pastrevio_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Pastrėvio herbas"
   },
   {
     "id": 279,
     "name": "Pašvitinio seniūnija",
-    "herbasName": "Pašvitinio herbas",
     "type": "Seniūnija",
     "county": "Pakruojo rajono savivaldybė",
     "file": "Pasvitinio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pašvitinio herbas"
   },
   {
     "id": 280,
     "name": "-",
-    "herbasName": "Perlojos herbas",
     "type": "Seniūnija",
     "county": "Varėnos rajono savivaldybė",
     "file": "Perlojos.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Perlojos herbas"
   },
   {
     "id": 281,
     "name": "Pernaravos seniūnija",
-    "herbasName": "Pernaravos herbas",
     "type": "Seniūnija",
     "county": "Kėdainių rajono savivaldybė",
     "file": "Pernaravos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pernaravos herbas"
   },
   {
     "id": 282,
     "name": "-",
-    "herbasName": "Pikelių herbas",
     "type": "Seniūnija",
     "county": "Mažeikių rajono savivaldybė",
     "file": "Pikeliu.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pikelių herbas"
   },
   {
     "id": 283,
     "name": "Taurakiemio seniūnija",
-    "herbasName": "Piliuonos herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Taurakiemio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Piliuonos herbas"
   },
   {
     "id": 284,
     "name": "Pilviškių seniūnija",
-    "herbasName": "Pilviškių herbas",
     "type": "Seniūnija",
     "county": "Vilkaviškio rajono savivaldybė",
     "file": "Pilviskiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pilviškių herbas"
   },
   {
     "id": 285,
     "name": "Pivašiūnų seniūnija",
-    "herbasName": "Pivašiūnų herbas",
     "type": "Seniūnija",
     "county": "Alytaus rajono savivaldybė",
     "file": "Pivasiunu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pivašiūnų herbas"
   },
   {
     "id": 286,
     "name": "Platelių seniūnija",
-    "herbasName": "Platelių herbas",
     "type": "Seniūnija",
     "county": "Plungės rajono savivaldybė",
     "file": "Plateliu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Platelių herbas"
   },
   {
     "id": 287,
     "name": "Plokščių seniūnija",
-    "herbasName": "Plokščių herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Ploksciu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Plokščių herbas"
   },
   {
     "id": 288,
     "name": "Plutiškių seniūnija",
-    "herbasName": "Plutiškių herbas",
     "type": "Seniūnija",
     "county": "Kazlų Rūdos savivaldybė",
     "file": "Plutiskiu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Plutiškių herbas"
   },
   {
     "id": 289,
     "name": "Pravieniškių seniūnija",
-    "herbasName": "Pravieniškių herbas",
     "type": "Seniūnija",
     "county": "Kaišiadorių rajono savivaldybė",
     "file": "Pravieniskiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pravieniškių herbas"
   },
   {
     "id": 290,
     "name": "Priekulės seniūnija",
-    "herbasName": "Priekulės herbas",
     "type": "Seniūnija",
     "county": "Klaipėdos rajono savivaldybė",
     "file": "Priekules_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Priekulės herbas"
   },
   {
     "id": 291,
     "name": "Pumpėnų seniūnija",
-    "herbasName": "Pumpėnų herbas",
     "type": "Seniūnija",
     "county": "Pasvalio rajono savivaldybė",
     "file": "Pumpenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pumpėnų herbas"
   },
   {
     "id": 292,
     "name": "Punios seniūnija",
-    "herbasName": "Punios herbas",
     "type": "Seniūnija",
     "county": "Alytaus rajono savivaldybė",
     "file": "Punios_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Punios herbas"
   },
   {
     "id": 293,
     "name": "Pušaloto seniūnija",
-    "herbasName": "Pušaloto herbas",
     "type": "Seniūnija",
     "county": "Pasvalio rajono savivaldybė",
     "file": "Pusaloto_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Pušaloto herbas"
   },
   {
     "id": 294,
     "name": "-",
-    "herbasName": "Radailių herbas",
     "type": "Seniūnija",
     "county": "Klaipėdos rajono savivaldybė",
     "file": "Radailiu.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Radailių herbas"
   },
   {
     "id": 295,
     "name": "Raguvos seniūnija",
-    "herbasName": "Raguvos herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Raguvos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Raguvos herbas"
   },
   {
     "id": 296,
     "name": "Ramygalos seniūnija",
-    "herbasName": "Ramygalos herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Ramygalos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Ramygalos herbas"
   },
   {
     "id": 297,
     "name": "Raudėnų seniūnija",
-    "herbasName": "Raudėnų herbas",
     "type": "Seniūnija",
     "county": "Šiaulių rajono savivaldybė",
     "file": "Raudenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Raudėnų herbas"
   },
   {
     "id": 298,
     "name": "Raudondvario seniūnija",
-    "herbasName": "Raudondvario herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Raudondvario_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Raudondvario herbas"
   },
   {
     "id": 299,
     "name": "Raudonės seniūnija",
-    "herbasName": "Raudonės herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Raudones_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Raudonės herbas"
   },
   {
     "id": 300,
     "name": "Ringaudų seniūnija",
-    "herbasName": "Ringaudų herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Ringaudu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Ringaudų herbas"
   },
   {
     "id": 301,
     "name": "Rokų seniūnija",
-    "herbasName": "Rokų herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Roku_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Rokų herbas"
   },
   {
     "id": 302,
     "name": "Rozalimo seniūnija",
-    "herbasName": "Rozalimo herbas",
     "type": "Seniūnija",
     "county": "Pakruojo rajono savivaldybė",
     "file": "Rozalimo_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Rozalimo herbas"
   },
   {
     "id": 303,
     "name": "-",
-    "herbasName": "Rudaminos herbas",
     "type": "Seniūnija",
     "county": "Lazdijų rajono savivaldybė",
     "file": "Rudaminos.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Rudaminos herbas"
   },
   {
     "id": 304,
     "name": "Rudaminos seniūnija",
-    "herbasName": "Rudaminos herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Rudaminos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Rudaminos herbas"
   },
   {
     "id": 305,
     "name": "Rudiškių seniūnija",
-    "herbasName": "Rudiškių herbas",
     "type": "Seniūnija",
     "county": "Joniškio rajono savivaldybė",
     "file": "Rudiskiu_seniunija_Joniskio.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Rudiškių herbas"
   },
   {
     "id": 306,
     "name": "Rūdiškių seniūnija",
-    "herbasName": "Rūdiškių herbas",
     "type": "Seniūnija",
     "county": "Trakų rajono savivaldybė",
     "file": "Rudiskiu_seniunija_Traku.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Rūdiškių herbas"
   },
   {
     "id": 307,
     "name": "Rukainių seniūnija",
-    "herbasName": "Rukainių herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Rukainiu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Rukainių herbas"
   },
   {
     "id": 308,
     "name": "Rumšiškių seniūnija",
-    "herbasName": "Rumšiškių herbas",
     "type": "Seniūnija",
     "county": "Kaišiadorių rajono savivaldybė",
     "file": "Rumsiskiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Rumšiškių herbas"
   },
   {
     "id": 309,
     "name": "Rusnės seniūnija",
-    "herbasName": "Rusnės herbas",
     "type": "Seniūnija",
     "county": "Šilutės rajono savivaldybė",
     "file": "Rusnes_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Rusnės herbas"
   },
   {
     "id": 310,
     "name": "Salako seniūnija",
-    "herbasName": "Salako herbas",
     "type": "Seniūnija",
     "county": "Zarasų rajono savivaldybė",
     "file": "Salako_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Salako herbas"
   },
   {
     "id": 311,
     "name": "Salantų miesto seniūnija",
-    "herbasName": "Salantų herbas",
     "type": "Seniūnija",
     "county": "Kretingos rajono savivaldybė",
     "file": "Salantu_miesto_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Salantų herbas"
   },
   {
     "id": 312,
     "name": "Saldutiškio seniūnija",
-    "herbasName": "Saldutiškio herbas",
     "type": "Seniūnija",
     "county": "Utenos rajono savivaldybė",
     "file": "Saldutiskio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Saldutiškio herbas"
   },
   {
     "id": 313,
     "name": "Saločių seniūnija",
-    "herbasName": "Saločių herbas",
     "type": "Seniūnija",
     "county": "Pasvalio rajono savivaldybė",
     "file": "Salociu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Saločių herbas"
   },
   {
     "id": 314,
     "name": "Samylų seniūnija",
-    "herbasName": "Samylų herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Samylu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Samylų herbas"
   },
   {
     "id": 315,
     "name": "-",
-    "herbasName": "Sartininkų herbas",
     "type": "Seniūnija",
     "county": "Tauragės rajono savivaldybė",
     "file": "Sartininku.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Sartininkų herbas"
   },
   {
     "id": 316,
     "name": "Sasnavos seniūnija",
-    "herbasName": "Sasnavos herbas",
     "type": "Seniūnija",
     "county": "Marijampolės savivaldybė",
     "file": "Sasnavos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Sasnavos herbas"
   },
   {
     "id": 317,
     "name": "Satkūnų seniūnija",
-    "herbasName": "Satkūnų herbas",
     "type": "Seniūnija",
     "county": "Joniškio rajono savivaldybė",
     "file": "Satkunu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Satkūnų herbas"
   },
   {
     "id": 318,
     "name": "Saugų seniūnija",
-    "herbasName": "Saugų herbas",
     "type": "Seniūnija",
     "county": "Šilutės rajono savivaldybė",
     "file": "Saugu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Saugų herbas"
   },
   {
     "id": 319,
     "name": "Vilkijos apylinkių seniūnija",
-    "herbasName": "Saulėtekių herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Vilkijos_apylinkiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Saulėtekių herbas"
   },
   {
     "id": 320,
     "name": "Sedos seniūnija",
-    "herbasName": "Sedos herbas",
     "type": "Seniūnija",
     "county": "Mažeikių rajono savivaldybė",
     "file": "Sedos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Sedos herbas"
   },
   {
     "id": 321,
     "name": "Seirijų seniūnija",
-    "herbasName": "Seirijų herbas",
     "type": "Seniūnija",
     "county": "Lazdijų rajono savivaldybė",
     "file": "Seiriju_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Seirijų herbas"
   },
   {
     "id": 322,
     "name": "Semeliškių seniūnija",
-    "herbasName": "Semeliškių herbas",
     "type": "Seniūnija",
     "county": "Elektrėnų savivaldybė",
     "file": "Semeliskiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Semeliškių herbas"
   },
   {
     "id": 323,
     "name": "-",
-    "herbasName": "Senosios Varėnos herbas",
     "type": "Seniūnija",
     "county": "Varėnos rajono savivaldybė",
     "file": "Senosios_Varenos.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Senosios Varėnos herbas"
   },
   {
     "id": 324,
     "name": "Senųjų Trakų seniūnija",
-    "herbasName": "Senųjų Trakų herbas",
     "type": "Seniūnija",
     "county": "Trakų rajono savivaldybė",
     "file": "Senuju_Traku_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Senųjų Trakų herbas"
   },
   {
     "id": 325,
     "name": "Seredžiaus seniūnija",
-    "herbasName": "Seredžiaus herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Seredziaus_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Seredžiaus herbas"
   },
   {
     "id": 326,
     "name": "Sidabravo seniūnija",
-    "herbasName": "Sidabravo herbas",
     "type": "Seniūnija",
     "county": "Radviliškio rajono savivaldybė",
     "file": "Sidabravo_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Sidabravo herbas"
   },
   {
     "id": 327,
     "name": "Siesikų seniūnija",
-    "herbasName": "Siesikų herbas",
     "type": "Seniūnija",
     "county": "Ukmergės rajono savivaldybė",
     "file": "Siesiku_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Siesikų herbas"
   },
   {
     "id": 328,
     "name": "Simno seniūnija",
-    "herbasName": "Simno herbas",
     "type": "Seniūnija",
     "county": "Alytaus rajono savivaldybė",
     "file": "Simno_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Simno herbas"
   },
   {
     "id": 329,
     "name": "Sintautų seniūnija",
-    "herbasName": "Sintautų herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Sintautu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Sintautų herbas"
   },
   {
     "id": 330,
     "name": "Skaistgirio seniūnija",
-    "herbasName": "Skaistgirio herbas",
     "type": "Seniūnija",
     "county": "Joniškio rajono savivaldybė",
     "file": "Skaistgirio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Skaistgirio herbas"
   },
   {
     "id": 331,
     "name": "Skapiškio seniūnija",
-    "herbasName": "Skapiškio herbas",
     "type": "Seniūnija",
     "county": "Kupiškio rajono savivaldybė",
     "file": "Skapiskio_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Skapiškio herbas"
   },
   {
     "id": 332,
     "name": "Skaudvilės seniūnija",
-    "herbasName": "Skaudvilės herbas",
     "type": "Seniūnija",
     "county": "Tauragės rajono savivaldybė",
     "file": "Skaudviles_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Skaudvilės herbas"
   },
   {
     "id": 333,
     "name": "Skiemonių seniūnija",
-    "herbasName": "Skiemonių herbas",
     "type": "Seniūnija",
     "county": "Anykščių rajono savivaldybė",
     "file": "Skiemoniu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Skiemonių herbas"
   },
   {
     "id": 334,
     "name": "Skirsnemunės seniūnija",
-    "herbasName": "Skirsnemunės herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Skirsnemunes_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Skirsnemunės herbas"
   },
   {
     "id": 335,
     "name": "Slavikų seniūnija",
-    "herbasName": "Slavikų herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Slaviku_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Slavikų herbas"
   },
   {
     "id": 336,
     "name": "Sendvario seniūnija",
-    "herbasName": "Slengių herbas",
     "type": "Seniūnija",
     "county": "Klaipėdos rajono savivaldybė",
     "file": "Sendvario_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Slengių herbas"
   },
   {
     "id": 337,
     "name": "Smalininkų seniūnija",
-    "herbasName": "Smalininkų herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Smalininku_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Smalininkų herbas"
   },
   {
     "id": 338,
     "name": "Smilgių seniūnija",
-    "herbasName": "Smilgių herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Smilgiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Smilgių herbas"
   },
   {
     "id": 339,
     "name": "-",
-    "herbasName": "Stakių herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Stakiu.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Stakių herbas"
   },
   {
     "id": 340,
     "name": "Stakliškių seniūnija",
-    "herbasName": "Stakliškių herbas",
     "type": "Seniūnija",
     "county": "Prienų rajono savivaldybė",
     "file": "Stakliskiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Stakliškių herbas"
   },
   {
     "id": 341,
     "name": "Stalgėnų seniūnija",
-    "herbasName": "Stalgėnų herbas",
     "type": "Seniūnija",
     "county": "Plungės rajono savivaldybė",
     "file": "Stalgenu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Stalgėnų herbas"
   },
   {
     "id": 342,
     "name": "Stoniškių seniūnija",
-    "herbasName": "Stoniškių herbas",
     "type": "Seniūnija",
     "county": "Pagėgių savivaldybė",
     "file": "Stoniskiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Stoniškių herbas"
   },
   {
     "id": 343,
     "name": "Subačiaus seniūnija",
-    "herbasName": "Subačiaus herbas",
     "type": "Seniūnija",
     "county": "Kupiškio rajono savivaldybė",
     "file": "Subaciaus_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Subačiaus herbas"
   },
   {
     "id": 344,
     "name": "Sudargo seniūnija",
-    "herbasName": "Sudargo herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Sudargo_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Sudargo herbas"
   },
   {
     "id": 345,
     "name": "Sudeikių seniūnija",
-    "herbasName": "Sudeikių herbas",
     "type": "Seniūnija",
     "county": "Utenos rajono savivaldybė",
     "file": "Sudeikiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Sudeikių herbas"
   },
   {
     "id": 346,
     "name": "Sudervės seniūnija",
-    "herbasName": "Sudervės herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Suderves_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Sudervės herbas"
   },
   {
     "id": 347,
     "name": "Suginčių seniūnija",
-    "herbasName": "Suginčių herbas",
     "type": "Seniūnija",
     "county": "Molėtų rajono savivaldybė",
     "file": "Suginciu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Suginčių herbas"
   },
   {
     "id": 348,
     "name": "Paliepių seniūnija",
-    "herbasName": "Sujainių herbas",
     "type": "Seniūnija",
     "county": "Raseinių rajono savivaldybė",
     "file": "Paliepiu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Sujainių herbas"
   },
   {
     "id": 349,
     "name": "Surviliškio seniūnija",
-    "herbasName": "Surviliškio herbas",
     "type": "Seniūnija",
     "county": "Kėdainių rajono savivaldybė",
     "file": "Surviliskio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Surviliškio herbas"
   },
   {
     "id": 350,
     "name": "-",
-    "herbasName": "Suvieko herbas",
     "type": "Seniūnija",
     "county": "Zarasų rajono savivaldybė",
     "file": "Suvieko.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Suvieko herbas"
   },
   {
     "id": 351,
     "name": "Sužionių seniūnija",
-    "herbasName": "Sužionių herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Suzioniu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Sužionių herbas"
   },
   {
     "id": 352,
     "name": "Svėdasų seniūnija",
-    "herbasName": "Svėdasų herbas",
     "type": "Seniūnija",
     "county": "Anykščių rajono savivaldybė",
     "file": "Svedasu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Svėdasų herbas"
   },
   {
     "id": 353,
     "name": "Šačių seniūnija",
-    "herbasName": "Šačių herbas",
     "type": "Seniūnija",
     "county": "Skuodo rajono savivaldybė",
     "file": "Saciu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šačių herbas"
   },
   {
     "id": 354,
     "name": "Šakynos seniūnija",
-    "herbasName": "Šakynos herbas",
     "type": "Seniūnija",
     "county": "Šiaulių rajono savivaldybė",
     "file": "Sakynos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šakynos herbas"
   },
   {
     "id": 355,
     "name": "Šateikių seniūnija",
-    "herbasName": "Šateikių herbas",
     "type": "Seniūnija",
     "county": "Plungės rajono savivaldybė",
     "file": "Sateikiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šateikių herbas"
   },
   {
     "id": 356,
     "name": "Šaukėnų seniūnija",
-    "herbasName": "Šaukėnų herbas",
     "type": "Seniūnija",
     "county": "Kelmės rajono savivaldybė",
     "file": "Saukenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šaukėnų herbas"
   },
   {
     "id": 357,
     "name": "Šaukoto seniūnija",
-    "herbasName": "Šaukoto herbas",
     "type": "Seniūnija",
     "county": "Radviliškio rajono savivaldybė",
     "file": "Saukoto_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šaukoto herbas"
   },
   {
     "id": 358,
     "name": "Šeduvos miesto seniūnija",
-    "herbasName": "Šeduvos herbas",
     "type": "Seniūnija",
     "county": "Radviliškio rajono savivaldybė",
     "file": "Seduvos_miesto_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šeduvos herbas"
   },
   {
     "id": 359,
     "name": "Šerkšnėnų seniūnija",
-    "herbasName": "Šerkšnėnų herbas",
     "type": "Seniūnija",
     "county": "Mažeikių rajono savivaldybė",
     "file": "Serksnenu_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Šerkšnėnų herbas"
   },
   {
     "id": 360,
     "name": "Šeštokų seniūnija",
-    "herbasName": "Šeštokų herbas",
     "type": "Seniūnija",
     "county": "Lazdijų rajono savivaldybė",
     "file": "Sestoku_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šeštokų herbas"
   },
   {
     "id": 361,
     "name": "Šešuolių seniūnija",
-    "herbasName": "Šešuolių herbas",
     "type": "Seniūnija",
     "county": "Ukmergės rajono savivaldybė",
     "file": "Sesuoliu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šešuolių herbas"
   },
   {
     "id": 362,
     "name": "Šėtos seniūnija",
-    "herbasName": "Šėtos herbas",
     "type": "Seniūnija",
     "county": "Kėdainių rajono savivaldybė",
     "file": "Setos_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šėtos herbas"
   },
   {
     "id": 363,
     "name": "Šiaulėnų seniūnija",
-    "herbasName": "Šiaulėnų herbas",
     "type": "Seniūnija",
     "county": "Radviliškio rajono savivaldybė",
     "file": "Siaulenu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šiaulėnų herbas"
   },
   {
     "id": 364,
     "name": "Panevėžio seniūnija",
-    "herbasName": "Šilagalio herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Panevezio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šilagalio herbas"
   },
   {
     "id": 365,
     "name": "Šilavoto seniūnija",
-    "herbasName": "Šilavoto herbas",
     "type": "Seniūnija",
     "county": "Prienų rajono savivaldybė",
     "file": "Silavoto_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šilavoto herbas"
   },
   {
     "id": 366,
     "name": "-",
-    "herbasName": "Šilėnų herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Silenu.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šilėnų herbas"
   },
   {
     "id": 367,
     "name": "Šilų seniūnija",
-    "herbasName": "Šilų herbas",
     "type": "Seniūnija",
     "county": "Jonavos rajono savivaldybė",
     "file": "Silu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šilų herbas"
   },
   {
     "id": 368,
     "name": "Šiluvos seniūnija",
-    "herbasName": "Šiluvos herbas",
     "type": "Seniūnija",
     "county": "Raseinių rajono savivaldybė",
     "file": "Siluvos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šiluvos herbas"
   },
   {
     "id": 369,
     "name": "Šimkaičių seniūnija",
-    "herbasName": "Šimkaičių herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Simkaiciu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šimkaičių herbas"
   },
   {
     "id": 370,
     "name": "Šunskų seniūnija",
-    "herbasName": "Šunskų herbas",
     "type": "Seniūnija",
     "county": "Marijampolės savivaldybė",
     "file": "Sunsku_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šunskų herbas"
   },
   {
     "id": 371,
     "name": "Šveicarijos seniūnija",
-    "herbasName": "Šveicarijos herbas",
     "type": "Seniūnija",
     "county": "Jonavos rajono savivaldybė",
     "file": "Sveicarijos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Šveicarijos herbas"
   },
   {
     "id": 372,
     "name": "Švėkšnos seniūnija",
-    "herbasName": "Švėkšnos herbas",
     "type": "Seniūnija",
     "county": "Šilutės rajono savivaldybė",
     "file": "Sveksnos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Švėkšnos herbas"
   },
   {
     "id": 373,
     "name": "Švenčionėlių seniūnija",
-    "herbasName": "Švenčionėlių herbas",
     "type": "Seniūnija",
     "county": "Švenčionių rajono savivaldybė",
     "file": "Svencioneliu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Švenčionėlių herbas"
   },
   {
     "id": 374,
     "name": "Šventosios seniūnija",
-    "herbasName": "Šventosios herbas",
     "type": "Seniūnija",
     "county": "Palangos savivaldybė",
     "file": "Sventosios_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Šventosios herbas"
   },
   {
     "id": 375,
     "name": "Taujėnų seniūnija",
-    "herbasName": "Taujėnų herbas",
     "type": "Seniūnija",
     "county": "Ukmergės rajono savivaldybė",
     "file": "Taujenu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Taujėnų herbas"
   },
   {
     "id": 376,
     "name": "Tauragnų seniūnija",
-    "herbasName": "Tauragnų herbas",
     "type": "Seniūnija",
     "county": "Utenos rajono savivaldybė",
     "file": "Tauragnu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Tauragnų herbas"
   },
   {
     "id": 377,
     "name": "Tirkšlių seniūnija",
-    "herbasName": "Tirkšlių herbas",
     "type": "Seniūnija",
     "county": "Mažeikių rajono savivaldybė",
     "file": "Tirksliu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Tirkšlių herbas"
   },
   {
     "id": 378,
     "name": "Tytuvėnų seniūnija",
-    "herbasName": "Tytuvėnų herbas",
     "type": "Seniūnija",
     "county": "Kelmės rajono savivaldybė",
     "file": "Tytuvenu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Tytuvėnų herbas"
   },
   {
     "id": 379,
     "name": "Trakų seniūnija",
-    "herbasName": "Trakų herbas",
     "type": "Seniūnija",
     "county": "Trakų rajono savivaldybė",
     "file": "Traku_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Trakų herbas"
   },
   {
     "id": 380,
     "name": "Traupio seniūnija",
-    "herbasName": "Traupio herbas",
     "type": "Seniūnija",
     "county": "Anykščių rajono savivaldybė",
     "file": "Traupio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Traupio herbas"
   },
   {
     "id": 381,
     "name": "Tryškių seniūnija",
-    "herbasName": "Tryškių herbas",
     "type": "Seniūnija",
     "county": "Telšių rajono savivaldybė",
     "file": "Tryskiu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Tryškių herbas"
   },
   {
     "id": 382,
     "name": "Troškūnų seniūnija",
-    "herbasName": "Troškūnų herbas",
     "type": "Seniūnija",
     "county": "Anykščių rajono savivaldybė",
     "file": "Troskunu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Troškūnų herbas"
   },
   {
     "id": 383,
     "name": "-",
-    "herbasName": "Tūbinių herbas",
     "type": "Seniūnija",
     "county": "Šilalės rajono savivaldybė",
     "file": "Tubiniu.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Tūbinių herbas"
   },
   {
     "id": 384,
     "name": "Turgelių seniūnija",
-    "herbasName": "Turgelių herbas",
     "type": "Seniūnija",
     "county": "Šalčininkų rajono savivaldybė",
     "file": "Turgeliu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Turgelių herbas"
   },
   {
     "id": 385,
     "name": "Turmanto seniūnija",
-    "herbasName": "Turmanto herbas",
     "type": "Seniūnija",
     "county": "Zarasų rajono savivaldybė",
     "file": "Turmanto_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Turmanto herbas"
   },
   {
     "id": 386,
     "name": "Tverų seniūnija",
-    "herbasName": "Tverų herbas",
     "type": "Seniūnija",
     "county": "Rietavo savivaldybė",
     "file": "Tveru_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Tverų herbas"
   },
   {
     "id": 387,
     "name": "Upynos seniūnija",
-    "herbasName": "Upynos herbas",
     "type": "Seniūnija",
     "county": "Šilalės rajono savivaldybė",
     "file": "Upynos_seniunija_Silales.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Upynos herbas"
   },
   {
     "id": 388,
     "name": "Upynos seniūnija",
-    "herbasName": "Upynos herbas",
     "type": "Seniūnija",
     "county": "Telšių rajono savivaldybė",
     "file": "Upynos_seniunija_Telsiu.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Upynos herbas"
   },
   {
     "id": 389,
     "name": "Upytės seniūnija",
-    "herbasName": "Upytės herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Upytes_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Upytės herbas"
   },
   {
     "id": 390,
     "name": "Upninkų seniūnija",
-    "herbasName": "Upninkų herbas",
     "type": "Seniūnija",
     "county": "Jonavos rajono savivaldybė",
     "file": "Upninku_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Upninkų herbas"
   },
   {
     "id": 391,
     "name": "Usėnų seniūnija",
-    "herbasName": "Usėnų herbas",
     "type": "Seniūnija",
     "county": "Šilutės rajono savivaldybė",
     "file": "Usenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Usėnų herbas"
   },
   {
     "id": 392,
     "name": "Užliedžių seniūnija",
-    "herbasName": "Užliedžių herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Uzliedziu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Užliedžių herbas"
   },
   {
     "id": 393,
     "name": "Užpalių seniūnija",
-    "herbasName": "Užpalių herbas",
     "type": "Seniūnija",
     "county": "Utenos rajono savivaldybė",
     "file": "Uzpaliu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Užpalių herbas"
   },
   {
     "id": 394,
     "name": "Užusalių seniūnija",
-    "herbasName": "Užusalių herbas",
     "type": "Seniūnija",
     "county": "Jonavos rajono savivaldybė",
     "file": "Uzusaliu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Užusalių herbas"
   },
   {
     "id": 395,
     "name": "Užvenčio seniūnija",
-    "herbasName": "Užvenčio herbas",
     "type": "Seniūnija",
     "county": "Kelmės rajono savivaldybė",
     "file": "Uzvencio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Užvenčio herbas"
   },
   {
     "id": 396,
     "name": "Vabalninko seniūnija",
-    "herbasName": "Vabalninko herbas",
     "type": "Seniūnija",
     "county": "Biržų rajono savivaldybė",
     "file": "Vabalninko_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vabalninko herbas"
   },
   {
     "id": 397,
     "name": "Vadoklių seniūnija",
-    "herbasName": "Vadoklių herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Vadokliu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vadoklių herbas"
   },
   {
     "id": 398,
     "name": "-",
-    "herbasName": "Vadžgirio herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Vadzgirio.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vadžgirio herbas"
   },
   {
     "id": 399,
     "name": "Vaiguvos seniūnija",
-    "herbasName": "Vaiguvos herbas",
     "type": "Seniūnija",
     "county": "Kelmės rajono savivaldybė",
     "file": "Vaiguvos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vaiguvos herbas"
   },
   {
     "id": 400,
     "name": "Vainuto seniūnija",
-    "herbasName": "Vainuto herbas",
     "type": "Seniūnija",
     "county": "Šilutės rajono savivaldybė",
     "file": "Vainuto_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vainuto herbas"
   },
   {
     "id": 401,
     "name": "Valkininkų seniūnija",
-    "herbasName": "Valkininkų herbas",
     "type": "Seniūnija",
     "county": "Varėnos rajono savivaldybė",
     "file": "Valkininku_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Valkininkų herbas"
   },
   {
     "id": 402,
     "name": "Vandžiogalos seniūnija",
-    "herbasName": "Vandžiogalos herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Vandziogalos_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vandžiogalos herbas"
   },
   {
     "id": 403,
     "name": "Varnių seniūnija",
-    "herbasName": "Varnių herbas",
     "type": "Seniūnija",
     "county": "Telšių rajono savivaldybė",
     "file": "Varniu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Varnių herbas"
   },
   {
     "id": 404,
     "name": "Vaškų seniūnija",
-    "herbasName": "Vaškų herbas",
     "type": "Seniūnija",
     "county": "Pasvalio rajono savivaldybė",
     "file": "Vasku_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vaškų herbas"
   },
   {
     "id": 405,
     "name": "Veisiejų miesto seniūnija",
-    "herbasName": "Veisiejų herbas",
     "type": "Seniūnija",
     "county": "Lazdijų rajono savivaldybė",
     "file": "Veisieju_miesto_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Veisiejų herbas"
   },
   {
     "id": 406,
     "name": "Veiverių seniūnija",
-    "herbasName": "Veiverių herbas",
     "type": "Seniūnija",
     "county": "Prienų rajono savivaldybė",
     "file": "Veiveriu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Veiverių herbas"
   },
   {
     "id": 407,
     "name": "Veiviržėnų seniūnija",
-    "herbasName": "Veiviržėnų herbas",
     "type": "Seniūnija",
     "county": "Klaipėdos rajono savivaldybė",
     "file": "Veivirzenu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Veiviržėnų herbas"
   },
   {
     "id": 408,
     "name": "Veliuonos seniūnija",
-    "herbasName": "Veliuonos herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Veliuonos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Veliuonos herbas"
   },
   {
     "id": 409,
     "name": "Velžio seniūnija",
-    "herbasName": "Velžio herbas",
     "type": "Seniūnija",
     "county": "Panevėžio rajono savivaldybė",
     "file": "Velzio_seniunija.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Velžio herbas"
   },
   {
     "id": 410,
     "name": "Ventos seniūnija",
-    "herbasName": "Ventos herbas",
     "type": "Seniūnija",
     "county": "Akmenės rajono savivaldybė",
     "file": "Ventos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Ventos herbas"
   },
   {
     "id": 411,
     "name": "Veprių seniūnija",
-    "herbasName": "Veprių herbas",
     "type": "Seniūnija",
     "county": "Ukmergės rajono savivaldybė",
     "file": "Vepriu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Veprių herbas"
   },
   {
     "id": 412,
     "name": "Vėžaičių seniūnija",
-    "herbasName": "Vėžaičių herbas",
     "type": "Seniūnija",
     "county": "Klaipėdos rajono savivaldybė",
     "file": "Vezaiciu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vėžaičių herbas"
   },
   {
     "id": 413,
     "name": "Videniškių seniūnija",
-    "herbasName": "Videniškių herbas",
     "type": "Seniūnija",
     "county": "Molėtų rajono savivaldybė",
     "file": "Videniskiu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Videniškių herbas"
   },
   {
     "id": 414,
     "name": "Vidiškių seniūnija",
-    "herbasName": "Vidiškių herbas",
     "type": "Seniūnija",
     "county": "Ignalinos rajono savivaldybė",
     "file": "Vidiskiu_seniunija_Ignalino.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vidiškių herbas"
   },
   {
     "id": 415,
     "name": "Vidiškių seniūnija",
-    "herbasName": "Vidiškių herbas",
     "type": "Seniūnija",
     "county": "Ukmergės rajono savivaldybė",
     "file": "Vidiskiu_seniunija_Ukmerges.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vidiškių herbas"
   },
   {
     "id": 416,
     "name": "Viduklės seniūnija",
-    "herbasName": "Viduklės herbas",
     "type": "Seniūnija",
     "county": "Raseinių rajono savivaldybė",
     "file": "Vidukles_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Viduklės herbas"
   },
   {
     "id": 417,
     "name": "Viečiūnų seniūnija",
-    "herbasName": "Viečiūnų herbas",
     "type": "Seniūnija",
     "county": "Druskininkų savivaldybė",
     "file": "Vieciunu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Viečiūnų herbas"
   },
   {
     "id": 418,
     "name": "Viekšnių seniūnija",
-    "herbasName": "Viekšnių herbas",
     "type": "Seniūnija",
     "county": "Mažeikių rajono savivaldybė",
     "file": "Vieksniu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Viekšnių herbas"
   },
   {
     "id": 419,
     "name": "Viešintų seniūnija",
-    "herbasName": "Viešintų herbas",
     "type": "Seniūnija",
     "county": "Anykščių rajono savivaldybė",
     "file": "Viesintu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Viešintų herbas"
   },
   {
     "id": 420,
     "name": "Viešvėnų seniūnija",
-    "herbasName": "Viešvėnų herbas",
     "type": "Seniūnija",
     "county": "Telšių rajono savivaldybė",
     "file": "Viesvenu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Viešvėnų herbas"
   },
   {
     "id": 421,
     "name": "Viešvilės seniūnija",
-    "herbasName": "Viešvilės herbas",
     "type": "Seniūnija",
     "county": "Jurbarko rajono savivaldybė",
     "file": "Viesviles_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Viešvilės herbas"
   },
   {
     "id": 422,
     "name": "Vievio seniūnija",
-    "herbasName": "Vievio herbas",
     "type": "Seniūnija",
     "county": "Elektrėnų savivaldybė",
     "file": "Vievio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vievio herbas"
   },
   {
     "id": 423,
     "name": "Vilkijos seniūnija",
-    "herbasName": "Vilkijos herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Vilkijos_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vilkijos herbas"
   },
   {
     "id": 424,
     "name": "Vilkyškių seniūnija",
-    "herbasName": "Vilkyškių herbas",
     "type": "Seniūnija",
     "county": "Pagėgių savivaldybė",
     "file": "Vilkyskiu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vilkyškių herbas"
   },
   {
     "id": 425,
     "name": "Virbalio seniūnija",
-    "herbasName": "Virbalio herbas",
     "type": "Seniūnija",
     "county": "Vilkaviškio rajono savivaldybė",
     "file": "Virbalio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Virbalio herbas"
   },
   {
     "id": 426,
     "name": "-",
-    "herbasName": "Višakio Rūdos herbas",
     "type": "Seniūnija",
     "county": "Kazlų Rūdos savivaldybė",
     "file": "Visakio_Rudos.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Višakio Rūdos herbas"
   },
   {
     "id": 427,
     "name": "Vištyčio seniūnija",
-    "herbasName": "Vištyčio herbas",
     "type": "Seniūnija",
     "county": "Vilkaviškio rajono savivaldybė",
     "file": "Vistycio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vištyčio herbas"
   },
   {
     "id": 428,
     "name": "Vyžuonų seniūnija",
-    "herbasName": "Vyžuonų herbas",
     "type": "Seniūnija",
     "county": "Utenos rajono savivaldybė",
     "file": "Vyzuonu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Vyžuonų herbas"
   },
   {
     "id": 429,
     "name": "Zapyškio seniūnija",
-    "herbasName": "Zapyškio herbas",
     "type": "Seniūnija",
     "county": "Kauno rajono savivaldybė",
     "file": "Zapyskio_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Zapyškio herbas"
   },
   {
     "id": 430,
     "name": "Zujūnų seniūnija",
-    "herbasName": "Zujūnų herbas",
     "type": "Seniūnija",
     "county": "Vilniaus rajono savivaldybė",
     "file": "Zujunu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Zujūnų herbas"
   },
   {
     "id": 431,
     "name": "Žadeikių seniūnija",
-    "herbasName": "Žadeikių herbas",
     "type": "Seniūnija",
     "county": "Šilalės rajono savivaldybė",
     "file": "Zadeikiu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žadeikių herbas"
   },
   {
     "id": 432,
     "name": "Žagarės seniūnija",
-    "herbasName": "Žagarės herbas",
     "type": "Seniūnija",
     "county": "Joniškio rajono savivaldybė",
     "file": "Zagares_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žagarės herbas"
   },
   {
     "id": 433,
     "name": "Žarėnų seniūnija",
-    "herbasName": "Žarėnų herbas",
     "type": "Seniūnija",
     "county": "Telšių rajono savivaldybė",
     "file": "Zarenu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žarėnų herbas"
   },
   {
     "id": 434,
     "name": "Žaslių seniūnija",
-    "herbasName": "Žaslių herbas",
     "type": "Seniūnija",
     "county": "Kaišiadorių rajono savivaldybė",
     "file": "Zasliu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žaslių herbas"
   },
   {
     "id": 435,
     "name": "Žeimelio seniūnija",
-    "herbasName": "Žeimelio herbas",
     "type": "Seniūnija",
     "county": "Pakruojo rajono savivaldybė",
     "file": "Zeimelio_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žeimelio herbas"
   },
   {
     "id": 436,
     "name": "Žeimių seniūnija",
-    "herbasName": "Žeimių herbas",
     "type": "Seniūnija",
     "county": "Jonavos rajono savivaldybė",
     "file": "Zeimiu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žeimių herbas"
   },
   {
     "id": 437,
     "name": "Želvos seniūnija",
-    "herbasName": "Želvos herbas",
     "type": "Seniūnija",
     "county": "Ukmergės rajono savivaldybė",
     "file": "Zelvos_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Želvos herbas"
   },
   {
     "id": 438,
     "name": "Žemaičių Kalvarijos seniūnija",
-    "herbasName": "Žemaičių Kalvarijos herbas",
     "type": "Seniūnija",
     "county": "Plungės rajono savivaldybė",
     "file": "Zemaiciu_Kalvarijos_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žemaičių Kalvarijos herbas"
   },
   {
     "id": 439,
     "name": "Žemaičių Naumiesčio seniūnija",
-    "herbasName": "Žemaičių Naumiesčio herbas",
     "type": "Seniūnija",
     "county": "Šilutės rajono savivaldybė",
     "file": "Zemaiciu_Naumiescio_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žemaičių Naumiesčio herbas"
   },
   {
     "id": 440,
     "name": "Žemaitkiemio seniūnija",
-    "herbasName": "Žemaitkiemio herbas",
     "type": "Seniūnija",
     "county": "Ukmergės rajono savivaldybė",
     "file": "Zemaitkiemio_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žemaitkiemio herbas"
   },
   {
     "id": 441,
     "name": "-",
-    "herbasName": "Žemalės herbas",
     "type": "Seniūnija",
     "county": "Mažeikių rajono savivaldybė",
     "file": "Zemales.svg",
-    "isSvg": true
+    "isSvg": true,
+    "full_name": "Žemalės herbas"
   },
   {
     "id": 442,
     "name": "Židikų seniūnija",
-    "herbasName": "Židikų herbas",
     "type": "Seniūnija",
     "county": "Mažeikių rajono savivaldybė",
     "file": "Zidiku_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Židikų herbas"
   },
   {
     "id": 443,
     "name": "Žiežmarių seniūnija",
-    "herbasName": "Žiežmarių herbas",
     "type": "Seniūnija",
     "county": "Kaišiadorių rajono savivaldybė",
     "file": "Ziezmariu_seniunija.gif",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žiežmarių herbas"
   },
   {
     "id": 444,
     "name": "Žygaičių seniūnija",
-    "herbasName": "Žygaičių herbas",
     "type": "Seniūnija",
     "county": "Tauragės rajono savivaldybė",
     "file": "Zygaiciu_seniunija.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žygaičių herbas"
   },
   {
     "id": 445,
     "name": "-",
-    "herbasName": "Žvingių herbas",
     "type": "Seniūnija",
     "county": "Šilalės rajono savivaldybė",
     "file": "Zvingiu.png",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žvingių herbas"
   },
   {
     "id": 446,
     "name": "Žvirgždaičių seniūnija",
-    "herbasName": "Žvirgždaičių herbas",
     "type": "Seniūnija",
     "county": "Šakių rajono savivaldybė",
     "file": "Zvirgzdaiciu_seniunija.jpg",
-    "isSvg": false
+    "isSvg": false,
+    "full_name": "Žvirgždaičių herbas"
   }
 ]

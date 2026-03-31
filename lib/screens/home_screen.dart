@@ -39,7 +39,7 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Future<void> _loadData() async {
-    final raw = await rootBundle.loadString('assets/data/herbai.json');
+    final raw = await rootBundle.loadString('assets/json/herbai.json');
     final list = (jsonDecode(raw) as List)
         .map((j) => Herbas.fromJson(j as Map<String, dynamic>))
         .toList();

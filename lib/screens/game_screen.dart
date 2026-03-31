@@ -52,7 +52,7 @@ class _GameScreenState extends State<GameScreen>
   }
 
   Future<void> _loadData() async {
-    final raw = await rootBundle.loadString('assets/data/herbai.json');
+    final raw = await rootBundle.loadString('assets/json/herbai.json');
     final all = (jsonDecode(raw) as List)
         .map((j) => Herbas.fromJson(j as Map<String, dynamic>))
         .where((h) => _gameTypes.contains(h.type))

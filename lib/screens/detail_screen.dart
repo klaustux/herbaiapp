@@ -102,7 +102,7 @@ class DetailScreen extends StatelessWidget {
                       _InfoRow(
                         icon: Icons.shield_outlined,
                         label: 'Herbas',
-                        value: herbas.herbasName,
+                        value: herbas.fullName,
                       ),
                     ],
                   ),

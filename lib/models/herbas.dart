@@ -1,7 +1,7 @@
 class Herbas {
   final int id;
   final String name;
-  final String herbasName;
+  final String fullName;
   final String type;
   final String county;
   final String file;
@@ -10,7 +10,7 @@ class Herbas {
   const Herbas({
     required this.id,
     required this.name,
-    required this.herbasName,
+    required this.fullName,
     required this.type,
     required this.county,
     required this.file,
@@ -21,7 +21,7 @@ class Herbas {
     return Herbas(
       id: json['id'] as int,
       name: json['name'] as String,
-      herbasName: json['herbasName'] as String,
+      fullName: json['full_name'] as String,
       type: json['type'] as String,
       county: json['county'] as String,
       file: json['file'] as String,

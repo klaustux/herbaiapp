@@ -4,8 +4,8 @@
     "name": "Naujoji Akmenė",
     "type": "Rajonas",
     "county": "Šiaulių apskritis",
-    "file": "Naujoji_Akmene_rajonas.png",
-    "isSvg": false,
+    "file": "Naujoji_Akmene_rajonas.svg",
+    "isSvg": true,
     "full_name": "Akmenės rajono savivaldybės herbas"
   },
   {
@@ -13,8 +13,8 @@
     "name": "Alytus",
     "type": "Miestas",
     "county": "Alytaus apskritis",
-    "file": "Alytus.png",
-    "isSvg": false,
+    "file": "Alytus.svg",
+    "isSvg": true,
     "full_name": "Alytaus miesto savivaldybės herbas"
   },
   {
@@ -22,8 +22,8 @@
     "name": "Alytus",
     "type": "Rajonas",
     "county": "Alytaus apskritis",
-    "file": "Alytus_rajonas.png",
-    "isSvg": false,
+    "file": "Alytus_rajonas.svg",
+    "isSvg": true,
     "full_name": "Alytaus rajono savivaldybės herbas"
   },
   {
@@ -31,8 +31,8 @@
     "name": "Anykščiai",
     "type": "Rajonas",
     "county": "Utenos apskritis",
-    "file": "Anyksciai_rajonas.gif",
-    "isSvg": false,
+    "file": "Anyksciai_rajonas.svg",
+    "isSvg": true,
     "full_name": "Anykščių rajono savivaldybės herbas"
   },
   {
@@ -49,8 +49,8 @@
     "name": "Biržai",
     "type": "Rajonas",
     "county": "Panevėžio apskritis",
-    "file": "Birzai_rajonas.png",
-    "isSvg": false,
+    "file": "Birzai_rajonas.svg",
+    "isSvg": true,
     "full_name": "Biržų rajono savivaldybės herbas"
   },
   {
@@ -58,8 +58,8 @@
     "name": "Druskininkai",
     "type": "Savivaldybė",
     "county": "Alytaus apskritis",
-    "file": "Druskininkai.png",
-    "isSvg": false,
+    "file": "Druskininkai.svg",
+    "isSvg": true,
     "full_name": "Druskininkų savivaldybės herbas"
   },
   {
@@ -76,8 +76,8 @@
     "name": "Ignalina",
     "type": "Rajonas",
     "county": "Utenos apskritis",
-    "file": "Ignalina_rajonas.png",
-    "isSvg": false,
+    "file": "Ignalina_rajonas.svg",
+    "isSvg": true,
     "full_name": "Ignalinos rajono savivaldybės herbas"
   },
   {
@@ -103,8 +103,8 @@
     "name": "Jurbarkas",
     "type": "Rajonas",
     "county": "Tauragės apskritis",
-    "file": "Jurbarkas_rajonas.gif",
-    "isSvg": false,
+    "file": "Jurbarkas_rajonas.svg",
+    "isSvg": true,
     "full_name": "Jurbarko rajono savivaldybės herbas"
   },
   {
@@ -112,8 +112,8 @@
     "name": "Kaišiadorys",
     "type": "Rajonas",
     "county": "Kauno apskritis",
-    "file": "Kaisiadorys_rajonas.gif",
-    "isSvg": false,
+    "file": "Kaisiadorys_rajonas.svg",
+    "isSvg": true,
     "full_name": "Kaišiadorių rajono savivaldybės herbas"
   },
   {
@@ -139,8 +139,8 @@
     "name": "Kaunas",
     "type": "Rajonas",
     "county": "Kauno apskritis",
-    "file": "Kaunas_rajonas.gif",
-    "isSvg": false,
+    "file": "Kaunas_rajonas.svg",
+    "isSvg": true,
     "full_name": "Kauno rajono savivaldybės herbas"
   },
   {
@@ -193,8 +193,8 @@
     "name": "Kretinga",
     "type": "Rajonas",
     "county": "Klaipėdos apskritis",
-    "file": "Kretinga_rajonas.gif",
-    "isSvg": false,
+    "file": "Kretinga_rajonas.svg",
+    "isSvg": true,
     "full_name": "Kretingos rajono savivaldybės herbas"
   },
   {
@@ -229,8 +229,8 @@
     "name": "Mažeikiai",
     "type": "Rajonas",
     "county": "Telšių apskritis",
-    "file": "Mazeikiai_rajonas.png",
-    "isSvg": false,
+    "file": "Mazeikiai_rajonas.svg",
+    "isSvg": true,
     "full_name": "Mažeikių rajono savivaldybės herbas"
   },
   {
@@ -238,8 +238,8 @@
     "name": "Molėtai",
     "type": "Rajonas",
     "county": "Utenos apskritis",
-    "file": "Moletai_rajonas.png",
-    "isSvg": false,
+    "file": "Moletai_rajonas.svg",
+    "isSvg": true,
     "full_name": "Molėtų rajono savivaldybės herbas"
   },
   {
@@ -256,8 +256,8 @@
     "name": "Pagėgiai",
     "type": "Savivaldybė",
     "county": "Tauragės apskritis",
-    "file": "Pagegiai.gif",
-    "isSvg": false,
+    "file": "Pagegiai.svg",
+    "isSvg": true,
     "full_name": "Pagėgių savivaldybės herbas"
   },
   {
@@ -310,8 +310,8 @@
     "name": "Plungė",
     "type": "Rajonas",
     "county": "Telšių apskritis",
-    "file": "Plunge_rajonas.gif",
-    "isSvg": false,
+    "file": "Plunge_rajonas.svg",
+    "isSvg": true,
     "full_name": "Plungės rajono savivaldybės herbas"
   },
   {
@@ -346,8 +346,8 @@
     "name": "Rietavas",
     "type": "Savivaldybė",
     "county": "Telšių apskritis",
-    "file": "Rietavas.gif",
-    "isSvg": false,
+    "file": "Rietavas.svg",
+    "isSvg": true,
     "full_name": "Rietavo savivaldybės herbas"
   },
   {
@@ -364,8 +364,8 @@
     "name": "Skuodas",
     "type": "Rajonas",
     "county": "Klaipėdos apskritis",
-    "file": "Skuodas_rajonas.gif",
-    "isSvg": false,
+    "file": "Skuodas_rajonas.svg",
+    "isSvg": true,
     "full_name": "Skuodo rajono savivaldybės herbas"
   },
   {
@@ -400,8 +400,8 @@
     "name": "Šiauliai",
     "type": "Rajonas",
     "county": "Šiaulių apskritis",
-    "file": "Siauliai_rajonas.gif",
-    "isSvg": false,
+    "file": "Siauliai_rajonas.svg",
+    "isSvg": true,
     "full_name": "Šiaulių rajono savivaldybės herbas"
   },
   {
@@ -418,8 +418,8 @@
     "name": "Šilutė",
     "type": "Rajonas",
     "county": "Klaipėdos apskritis",
-    "file": "Silute_rajonas.png",
-    "isSvg": false,
+    "file": "Silute_rajonas.svg",
+    "isSvg": true,
     "full_name": "Šilutės rajono savivaldybės herbas"
   },
   {
@@ -427,8 +427,8 @@
     "name": "Širvintos",
     "type": "Rajonas",
     "county": "Vilniaus apskritis",
-    "file": "Sirvintos_rajonas.gif",
-    "isSvg": false,
+    "file": "Sirvintos_rajonas.svg",
+    "isSvg": true,
     "full_name": "Širvintų rajono savivaldybės herbas"
   },
   {
@@ -454,8 +454,8 @@
     "name": "Telšiai",
     "type": "Rajonas",
     "county": "Telšių apskritis",
-    "file": "Telsiai_rajonas.png",
-    "isSvg": false,
+    "file": "Telsiai_rajonas.svg",
+    "isSvg": true,
     "full_name": "Telšių rajono savivaldybės herbas"
   },
   {
@@ -517,8 +517,8 @@
     "name": "Vilnius",
     "type": "Rajonas",
     "county": "Vilniaus apskritis",
-    "file": "Vilnius_rajonas.png",
-    "isSvg": false,
+    "file": "Vilnius_rajonas.svg",
+    "isSvg": true,
     "full_name": "Vilniaus rajono savivaldybės herbas"
   },
   {

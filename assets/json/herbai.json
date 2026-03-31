@@ -166,8 +166,8 @@
     "name": "Kėdainiai",
     "type": "Rajonas",
     "county": "Kauno apskritis",
-    "file": "Kedainiai_rajonas.png",
-    "isSvg": false,
+    "file": "Kedainiai_rajonas.svg",
+    "isSvg": true,
     "full_name": "Kėdainių rajono savivaldybės herbas"
   },
   {
@@ -202,8 +202,8 @@
     "name": "Kupiškis",
     "type": "Rajonas",
     "county": "Panevėžio apskritis",
-    "file": "Kupiskis_rajonas.png",
-    "isSvg": false,
+    "file": "Kupiskis_rajonas.svg",
+    "isSvg": true,
     "full_name": "Kupiškio rajono savivaldybės herbas"
   },
   {
@@ -265,8 +265,8 @@
     "name": "Pakruojis",
     "type": "Rajonas",
     "county": "Šiaulių apskritis",
-    "file": "Pakruojis_rajonas.png",
-    "isSvg": false,
+    "file": "Pakruojis_rajonas.svg",
+    "isSvg": true,
     "full_name": "Pakruojo rajono savivaldybės herbas"
   },
   {
@@ -319,8 +319,8 @@
     "name": "Prienai",
     "type": "Rajonas",
     "county": "Kauno apskritis",
-    "file": "Prienai_rajonas.png",
-    "isSvg": false,
+    "file": "Prienai_rajonas.svg",
+    "isSvg": true,
     "full_name": "Prienų rajono savivaldybės herbas"
   },
   {
@@ -373,8 +373,8 @@
     "name": "Šakiai",
     "type": "Rajonas",
     "county": "Marijampolės apskritis",
-    "file": "Sakiai_rajonas.png",
-    "isSvg": false,
+    "file": "Sakiai_rajonas.svg",
+    "isSvg": true,
     "full_name": "Šakių rajono savivaldybės herbas"
   },
   {
@@ -463,8 +463,8 @@
     "name": "Trakai",
     "type": "Rajonas",
     "county": "Vilniaus apskritis",
-    "file": "Trakai_rajonas.png",
-    "isSvg": false,
+    "file": "Trakai_rajonas.svg",
+    "isSvg": true,
     "full_name": "Trakų rajono savivaldybės herbas"
   },
   {

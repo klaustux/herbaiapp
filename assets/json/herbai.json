@@ -445,8 +445,8 @@
     "name": "Tauragė",
     "type": "Rajonas",
     "county": "Tauragės apskritis",
-    "file": "Taurage_rajonas.png",
-    "isSvg": false,
+    "file": "Taurage_rajonas.svg",
+    "isSvg": true,
     "full_name": "Tauragės rajono savivaldybės herbas"
   },
   {
@@ -481,8 +481,8 @@
     "name": "Utena",
     "type": "Rajonas",
     "county": "Utenos apskritis",
-    "file": "Utena_rajonas.png",
-    "isSvg": false,
+    "file": "Utena_rajonas.svg",
+    "isSvg": true,
     "full_name": "Utenos rajono savivaldybės herbas"
   },
   {

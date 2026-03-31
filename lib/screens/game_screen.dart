@@ -37,6 +37,7 @@ class _GameScreenState extends State<GameScreen>
   late Animation<double> _shakeAnim;
 
   final _rng = Random();
+  Set<int> _lastShownIds = {};
 
   @override
   void initState() {
@@ -81,13 +82,19 @@ class _GameScreenState extends State<GameScreen>
   }
 
   void _nextRound() {
-    // Pasirinkti 2 skirtingus heralds
+    // Pasirinkti 2 skirtingus herbus, nesikartojancius su paskutine pora
     final copy = List<Herbas>.from(_pool)..shuffle(_rng);
-    _left = copy[0];
-    _right = copy[1];
+    final candidates = _lastShownIds.isEmpty
+        ? copy
+        : copy.where((h) => !_lastShownIds.contains(h.id)).toList();
+    // Jei del kokios nors priezasties maziau nei 2 kandidatu – naudoti visa sarasa
+    final source = candidates.length >= 2 ? candidates : copy;
+    _left  = source[0];
+    _right = source[1];
+    _lastShownIds = {_left.id, _right.id};
     // Atsakymas – atsitiktinai vienas is ju
     _answer = _rng.nextBool() ? _left : _right;
-    _showWrongLeft = false;
+    _showWrongLeft  = false;
     _showWrongRight = false;
     _answering = false;
     setState(() {});
@@ -314,8 +321,9 @@ class _GameScreenState extends State<GameScreen>
                     onPressed: () {
                       setState(() {
                         _correct = 0;
-                        _errors = 0;
+                        _errors  = 0;
                         _gameOver = false;
+                        _lastShownIds = {};
                       });
                       _nextRound();
                     },

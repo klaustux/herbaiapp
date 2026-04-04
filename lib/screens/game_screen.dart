@@ -2,11 +2,14 @@ import 'dart:convert';
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../models/herbas.dart';
+import '../models/game_difficulty.dart';
 import '../widgets/herbas_image.dart';
 
 class GameScreen extends StatefulWidget {
-  const GameScreen({super.key});
+  final GameDifficulty difficulty;
+  const GameScreen({super.key, this.difficulty = GameDifficulty.easy});
 
   @override
   State<GameScreen> createState() => _GameScreenState();
@@ -14,30 +17,42 @@ class GameScreen extends StatefulWidget {
 
 class _GameScreenState extends State<GameScreen>
     with SingleTickerProviderStateMixin {
-  // Miestai + Rajonai + Savivaldybes = 60 vnt. (po dedup: 55)
-  static const _gameTypes = {'Miestas', 'Rajonas', 'Savivaldyb\u0117'};
+  static const _mainTypes = {'Miestas', 'Rajonas', 'Savivaldyb\u0117'};
 
   List<Herbas> _pool = [];
   bool _loading = true;
-
   late Herbas _left;
   late Herbas _right;
-  late Herbas _answer;   // kurio miesto pavadinimas rodomas
-
+  late Herbas _answer;
   int _correct = 0;
-  int _errors = 0;
+  int _errors  = 0;
   bool _gameOver = false;
-
-  // Feedback state
-  bool _showWrongLeft = false;
+  bool _showWrongLeft  = false;
   bool _showWrongRight = false;
-  bool _answering = false;   // blokuoja paspaudima animacijos metu
+  bool _answering = false;
+  Set<int> _lastShownIds = {};
 
   late AnimationController _shakeCtrl;
   late Animation<double> _shakeAnim;
-
   final _rng = Random();
-  Set<int> _lastShownIds = {};
+
+  String get _title => switch (widget.difficulty) {
+    GameDifficulty.easy       => 'Miest\u0173 \u017eaidimas',
+    GameDifficulty.hard       => 'Sunkus lygis',
+    GameDifficulty.impossible => 'Ne\u012fmanomas lygis',
+  };
+
+  Color get _accentColor => switch (widget.difficulty) {
+    GameDifficulty.easy       => const Color(0xFFE040FB),
+    GameDifficulty.hard       => const Color(0xFFFF6D00),
+    GameDifficulty.impossible => const Color(0xFFFF1744),
+  };
+
+  String get _prefKey => switch (widget.difficulty) {
+    GameDifficulty.easy       => 'best_easy',
+    GameDifficulty.hard       => 'best_hard',
+    GameDifficulty.impossible => 'best_impossible',
+  };
 
   @override
   void initState() {
@@ -56,61 +71,85 @@ class _GameScreenState extends State<GameScreen>
     final raw = await rootBundle.loadString('assets/json/herbai.json');
     final all = (jsonDecode(raw) as List)
         .map((j) => Herbas.fromJson(j as Map<String, dynamic>))
-        .where((h) => _gameTypes.contains(h.type))
         .toList();
 
-    // Deduplikuoti pagal miesto pavadinima:
-    // jei yra ir miesto, ir rajono herbas – palikti tik miesto
-    final typePriority = {'Miestas': 0, 'Savivaldybė': 1, 'Rajonas': 2};
-    final Map<String, Herbas> unique = {};
-    for (final h in all) {
-      final existing = unique[h.name];
-      if (existing == null) {
-        unique[h.name] = h;
-      } else {
-        final newPrio  = typePriority[h.type]        ?? 99;
-        final prevPrio = typePriority[existing.type] ?? 99;
-        if (newPrio < prevPrio) unique[h.name] = h;
-      }
+    List<Herbas> pool;
+
+    switch (widget.difficulty) {
+      case GameDifficulty.impossible:
+        // Visi 447
+        pool = all;
+      case GameDifficulty.hard:
+        // Miestas+Rajonas+Savivaldyb\u0117 BE deduplikacijos
+        pool = all.where((h) => _mainTypes.contains(h.type)).toList();
+      default:
+        // Lengvas: deduplikuoti – jei yra ir miestas ir rajonas, palikti tik miestą
+        final filtered =
+            all.where((h) => _mainTypes.contains(h.type)).toList();
+        final typePriority = {
+          'Miestas': 0,
+          'Savivaldyb\u0117': 1,
+          'Rajonas': 2
+        };
+        final Map<String, Herbas> unique = {};
+        for (final h in filtered) {
+          final existing = unique[h.name];
+          if (existing == null) {
+            unique[h.name] = h;
+          } else {
+            final newPrio  = typePriority[h.type]        ?? 99;
+            final prevPrio = typePriority[existing.type] ?? 99;
+            if (newPrio < prevPrio) unique[h.name] = h;
+          }
+        }
+        pool = unique.values.toList();
     }
 
     setState(() {
-      _pool = unique.values.toList();
+      _pool    = pool;
       _loading = false;
     });
     _nextRound();
   }
 
   void _nextRound() {
-    // Pasirinkti 2 skirtingus herbus, nesikartojancius su paskutine pora
     final copy = List<Herbas>.from(_pool)..shuffle(_rng);
     final candidates = _lastShownIds.isEmpty
         ? copy
         : copy.where((h) => !_lastShownIds.contains(h.id)).toList();
-    // Jei del kokios nors priezasties maziau nei 2 kandidatu – naudoti visa sarasa
     final source = candidates.length >= 2 ? candidates : copy;
     _left  = source[0];
     _right = source[1];
-    _lastShownIds = {_left.id, _right.id};
-    // Atsakymas – atsitiktinai vienas is ju
-    _answer = _rng.nextBool() ? _left : _right;
+    _lastShownIds   = {_left.id, _right.id};
+    _answer         = _rng.nextBool() ? _left : _right;
     _showWrongLeft  = false;
     _showWrongRight = false;
-    _answering = false;
+    _answering      = false;
     setState(() {});
+  }
+
+  Future<void> _saveScore() async {
+    final prefs   = await SharedPreferences.getInstance();
+    final current = prefs.getInt(_prefKey) ?? 0;
+    if (_correct > current) {
+      await prefs.setInt(_prefKey, _correct);
+    }
+    if (widget.difficulty == GameDifficulty.easy && _correct >= 100) {
+      await prefs.setBool('hard_unlocked', true);
+    }
+    if (widget.difficulty == GameDifficulty.hard && _correct >= 100) {
+      await prefs.setBool('impossible_unlocked', true);
+    }
   }
 
   Future<void> _onTap(Herbas tapped) async {
     if (_answering || _gameOver) return;
     _answering = true;
-
     if (tapped.id == _answer.id) {
-      // Teisingas atsakymas
       setState(() => _correct++);
       await Future.delayed(const Duration(milliseconds: 180));
       setState(() => _nextRound());
     } else {
-      // Neteisingas
       setState(() {
         _errors++;
         _showWrongLeft  = (tapped.id == _left.id);
@@ -119,12 +158,13 @@ class _GameScreenState extends State<GameScreen>
       _shakeCtrl.forward(from: 0);
       await Future.delayed(const Duration(milliseconds: 900));
       if (_errors >= 3) {
+        await _saveScore();
         setState(() => _gameOver = true);
       } else {
         setState(() {
           _showWrongLeft  = false;
           _showWrongRight = false;
-          _answering = false;
+          _answering      = false;
         });
       }
     }
@@ -133,9 +173,10 @@ class _GameScreenState extends State<GameScreen>
   @override
   Widget build(BuildContext context) {
     if (_loading) {
-      return const Scaffold(
-        backgroundColor: Color(0xFF0F2027),
-        body: Center(child: CircularProgressIndicator(color: Colors.white)),
+      return Scaffold(
+        backgroundColor: const Color(0xFF0F2027),
+        body: Center(
+            child: CircularProgressIndicator(color: _accentColor)),
       );
     }
     if (_gameOver) return _buildGameOver(context);
@@ -148,7 +189,6 @@ class _GameScreenState extends State<GameScreen>
       body: SafeArea(
         child: Column(
           children: [
-            // ── Top bar ──────────────────────────────────────
             Padding(
               padding: const EdgeInsets.fromLTRB(16, 12, 16, 0),
               child: Row(
@@ -159,13 +199,12 @@ class _GameScreenState extends State<GameScreen>
                         color: Colors.white54, size: 20),
                   ),
                   const SizedBox(width: 8),
-                  const Text('Miesto \u017eaidimas',
-                      style: TextStyle(
+                  Text(_title,
+                      style: const TextStyle(
                           color: Colors.white70,
                           fontSize: 16,
                           fontWeight: FontWeight.w600)),
                   const Spacer(),
-                  // Klaidu skaitliukas (sirdeles)
                   Row(
                     children: List.generate(3, (i) {
                       return Padding(
@@ -183,29 +222,25 @@ class _GameScreenState extends State<GameScreen>
                     }),
                   ),
                   const SizedBox(width: 12),
-                  // Teisingi atsakymai
                   Container(
                     padding: const EdgeInsets.symmetric(
                         horizontal: 10, vertical: 4),
                     decoration: BoxDecoration(
-                      color: const Color(0xFF4CAF50).withValues(alpha: 0.2),
+                      color: _accentColor.withValues(alpha: 0.2),
                       borderRadius: BorderRadius.circular(12),
                       border: Border.all(
-                          color: const Color(0xFF4CAF50).withValues(alpha: 0.4)),
+                          color: _accentColor.withValues(alpha: 0.4)),
                     ),
-                    child: Text('$_correct',
-                        style: const TextStyle(
-                            color: Color(0xFF4CAF50),
+                    child: Text('\$_correct',
+                        style: TextStyle(
+                            color: _accentColor,
                             fontWeight: FontWeight.w700,
                             fontSize: 15)),
                   ),
                 ],
               ),
             ),
-
             const Spacer(flex: 2),
-
-            // ── Du herbai ────────────────────────────────────
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 16),
               child: Row(
@@ -228,10 +263,7 @@ class _GameScreenState extends State<GameScreen>
                 ],
               ),
             ),
-
             const Spacer(flex: 2),
-
-            // ── Miesto pavadinimas ───────────────────────────
             AnimatedBuilder(
               animation: _shakeAnim,
               builder: (_, child) {
@@ -256,7 +288,6 @@ class _GameScreenState extends State<GameScreen>
                 ),
               ),
             ),
-
             const Spacer(flex: 3),
           ],
         ),
@@ -274,7 +305,6 @@ class _GameScreenState extends State<GameScreen>
             child: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
-                // Ikona
                 Container(
                   width: 88,
                   height: 88,
@@ -298,7 +328,7 @@ class _GameScreenState extends State<GameScreen>
                 ),
                 const SizedBox(height: 12),
                 Text(
-                  '$_correct',
+                  '\$_correct',
                   style: const TextStyle(
                       color: Colors.white,
                       fontSize: 72,
@@ -306,33 +336,58 @@ class _GameScreenState extends State<GameScreen>
                       height: 1.0),
                 ),
                 const Text(
-                  'ATSPĖTŲ HERBŲ',
+                  'ATSP\u0116T\u0172 HERB\u0172',
                   style: TextStyle(
                       color: Colors.white38,
                       fontSize: 13,
                       fontWeight: FontWeight.w600,
                       letterSpacing: 2),
                 ),
+                if (widget.difficulty == GameDifficulty.easy &&
+                    _correct < 100)
+                  Padding(
+                    padding: const EdgeInsets.only(top: 16),
+                    child: Text(
+                      'Surink 100 ta\u0161k\u0173 kad atrakintum Sunk\u0173 lyg\u012f',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                          color: const Color(0xFFFF6D00)
+                              .withValues(alpha: 0.8),
+                          fontSize: 13),
+                    ),
+                  ),
+                if (widget.difficulty == GameDifficulty.hard &&
+                    _correct < 100)
+                  Padding(
+                    padding: const EdgeInsets.only(top: 16),
+                    child: Text(
+                      'Surink 100 ta\u0161k\u0173 kad atrakintum Ne\u012fmanom\u0105 lyg\u012f',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                          color: const Color(0xFFFF1744)
+                              .withValues(alpha: 0.8),
+                          fontSize: 13),
+                    ),
+                  ),
                 const SizedBox(height: 40),
-                // Zaisti is naujo
                 SizedBox(
                   width: double.infinity,
                   child: ElevatedButton.icon(
                     onPressed: () {
                       setState(() {
-                        _correct = 0;
-                        _errors  = 0;
-                        _gameOver = false;
+                        _correct      = 0;
+                        _errors       = 0;
+                        _gameOver     = false;
                         _lastShownIds = {};
                       });
                       _nextRound();
                     },
                     icon: const Icon(Icons.refresh_rounded),
-                    label: const Text('Žaisti iš naujo',
+                    label: const Text('\u017daisti i\u0161 naujo',
                         style: TextStyle(
                             fontSize: 16, fontWeight: FontWeight.w700)),
                     style: ElevatedButton.styleFrom(
-                      backgroundColor: const Color(0xFF4CAF50),
+                      backgroundColor: _accentColor,
                       foregroundColor: Colors.white,
                       padding: const EdgeInsets.symmetric(vertical: 16),
                       shape: RoundedRectangleBorder(
@@ -377,7 +432,7 @@ class _GameScreenState extends State<GameScreen>
   }
 }
 
-// ── Herbo kortelis ───────────────────────────────────────────────────────────
+// ── Herbo kortelis ────────────────────────────────────────────────────────────
 class _HerbCard extends StatefulWidget {
   final Herbas herbas;
   final bool showWrong;
@@ -411,7 +466,10 @@ class _HerbCardState extends State<_HerbCard>
   Widget build(BuildContext context) {
     return GestureDetector(
       onTapDown: (_) => _ctrl.forward(),
-      onTapUp: (_) { _ctrl.reverse(); widget.onTap(); },
+      onTapUp: (_) {
+        _ctrl.reverse();
+        widget.onTap();
+      },
       onTapCancel: () => _ctrl.reverse(),
       child: ScaleTransition(
         scale: _scale,

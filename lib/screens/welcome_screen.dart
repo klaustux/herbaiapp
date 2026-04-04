@@ -1,9 +1,39 @@
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+import '../models/game_difficulty.dart';
 import 'home_screen.dart';
 import 'game_screen.dart';
 
-class WelcomeScreen extends StatelessWidget {
+class WelcomeScreen extends StatefulWidget {
   const WelcomeScreen({super.key});
+
+  @override
+  State<WelcomeScreen> createState() => _WelcomeScreenState();
+}
+
+class _WelcomeScreenState extends State<WelcomeScreen> {
+  int  _bestEasy           = 0;
+  int  _bestHard           = 0;
+  int  _bestImpossible     = 0;
+  bool _hardUnlocked       = false;
+  bool _impossibleUnlocked = false;
+
+  @override
+  void initState() {
+    super.initState();
+    _loadPrefs();
+  }
+
+  Future<void> _loadPrefs() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _bestEasy           = prefs.getInt('best_easy')        ?? 0;
+      _bestHard           = prefs.getInt('best_hard')        ?? 0;
+      _bestImpossible     = prefs.getInt('best_impossible')  ?? 0;
+      _hardUnlocked       = prefs.getBool('hard_unlocked')   ?? false;
+      _impossibleUnlocked = prefs.getBool('impossible_unlocked') ?? false;
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -64,27 +94,42 @@ class WelcomeScreen extends StatelessWidget {
                 onTap: () => _go(context, 'Visi'),
               ),
               const SizedBox(height: 14),
-              _FilterButton(
+              _GameButton(
                 label: 'Miest\u0173 \u017eaidimas',
-                subtitle: 'Atspek kuri\u0173 miesto herbas \u2014 55 miest\u0173',
+                subtitle: 'Atsp\u0117k, kurio miesto herbas \u2014 55 miest\u0173',
                 icon: Icons.quiz_rounded,
                 color: const Color(0xFFE040FB),
-                onTap: () => Navigator.push(
-                  context,
-                  PageRouteBuilder(
-                    pageBuilder: (_, anim, __) => const GameScreen(),
-                    transitionsBuilder: (_, anim, __, child) =>
-                        SlideTransition(
-                      position: Tween<Offset>(
-                        begin: const Offset(1, 0),
-                        end: Offset.zero,
-                      ).animate(CurvedAnimation(
-                          parent: anim, curve: Curves.easeOutCubic)),
-                      child: child,
-                    ),
-                    transitionDuration: const Duration(milliseconds: 320),
-                  ),
-                ),
+                bestScore: _bestEasy,
+                isLocked: false,
+                onTap: () => _playGame(context, GameDifficulty.easy),
+              ),
+              const SizedBox(height: 10),
+              _GameButton(
+                label: 'Sunkus lygis',
+                subtitle: _hardUnlocked
+                    ? 'Visi herbai, be deduplikacijos'
+                    : 'Surink 100 ta\u0161k\u0173 lengvame lygyje',
+                icon: Icons.local_fire_department_rounded,
+                color: const Color(0xFFFF6D00),
+                bestScore: _bestHard,
+                isLocked: !_hardUnlocked,
+                onTap: _hardUnlocked
+                    ? () => _playGame(context, GameDifficulty.hard)
+                    : null,
+              ),
+              const SizedBox(height: 10),
+              _GameButton(
+                label: 'Ne\u012fmanomas lygis',
+                subtitle: _impossibleUnlocked
+                    ? 'Visi 447 herbai \u012fskaitant seni\u016bnijas'
+                    : 'Surink 100 ta\u0161k\u0173 sunkiame lygyje',
+                icon: Icons.whatshot_rounded,
+                color: const Color(0xFFFF1744),
+                bestScore: _bestImpossible,
+                isLocked: !_impossibleUnlocked,
+                onTap: _impossibleUnlocked
+                    ? () => _playGame(context, GameDifficulty.impossible)
+                    : null,
               ),
               const Spacer(flex: 2),
             ],
@@ -92,6 +137,27 @@ class WelcomeScreen extends StatelessWidget {
         ),
       ),
     );
+  }
+
+  Future<void> _playGame(
+      BuildContext context, GameDifficulty difficulty) async {
+    await Navigator.push(
+      context,
+      PageRouteBuilder(
+        pageBuilder: (_, anim, __) =>
+            GameScreen(difficulty: difficulty),
+        transitionsBuilder: (_, anim, __, child) => SlideTransition(
+          position: Tween<Offset>(
+            begin: const Offset(1, 0),
+            end: Offset.zero,
+          ).animate(
+              CurvedAnimation(parent: anim, curve: Curves.easeOutCubic)),
+          child: child,
+        ),
+        transitionDuration: const Duration(milliseconds: 320),
+      ),
+    );
+    _loadPrefs(); // atnaujinti rekordus gr\u012f\u017eus
   }
 
   void _go(BuildContext context, String filter) {
@@ -104,8 +170,8 @@ class WelcomeScreen extends StatelessWidget {
           position: Tween<Offset>(
             begin: const Offset(1.0, 0.0),
             end: Offset.zero,
-          ).animate(CurvedAnimation(
-              parent: anim, curve: Curves.easeOutCubic)),
+          ).animate(
+              CurvedAnimation(parent: anim, curve: Curves.easeOutCubic)),
           child: child,
         ),
         transitionDuration: const Duration(milliseconds: 320),
@@ -114,6 +180,7 @@ class WelcomeScreen extends StatelessWidget {
   }
 }
 
+// ── Browse mygtukas (nepakitęs) ───────────────────────────────────────────────
 class _FilterButton extends StatelessWidget {
   final String label;
   final String subtitle;
@@ -174,6 +241,104 @@ class _FilterButton extends StatelessWidget {
               ),
               Icon(Icons.arrow_forward_ios_rounded,
                   size: 16, color: color.withValues(alpha: 0.7)),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+// ── Žaidimo mygtukas su lock ir rekordu ───────────────────────────────────────
+class _GameButton extends StatelessWidget {
+  final String label;
+  final String subtitle;
+  final IconData icon;
+  final Color color;
+  final int bestScore;
+  final bool isLocked;
+  final VoidCallback? onTap;
+
+  const _GameButton({
+    required this.label,
+    required this.subtitle,
+    required this.icon,
+    required this.color,
+    required this.bestScore,
+    required this.isLocked,
+    this.onTap,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    final c = isLocked ? color.withValues(alpha: 0.35) : color;
+    return Material(
+      color: Colors.transparent,
+      child: InkWell(
+        onTap: onTap,
+        borderRadius: BorderRadius.circular(18),
+        child: Container(
+          padding:
+              const EdgeInsets.symmetric(horizontal: 20, vertical: 14),
+          decoration: BoxDecoration(
+            color: c.withValues(alpha: 0.10),
+            borderRadius: BorderRadius.circular(18),
+            border: Border.all(color: c.withValues(alpha: 0.30), width: 1.5),
+          ),
+          child: Row(
+            children: [
+              Container(
+                width: 46,
+                height: 46,
+                decoration: BoxDecoration(
+                    color: c.withValues(alpha: 0.18),
+                    borderRadius: BorderRadius.circular(12)),
+                child: Icon(
+                    isLocked ? Icons.lock_rounded : icon,
+                    color: c,
+                    size: 24),
+              ),
+              const SizedBox(width: 16),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(label,
+                        style: TextStyle(
+                            fontSize: 17,
+                            fontWeight: FontWeight.w700,
+                            color: isLocked
+                                ? Colors.white30
+                                : Colors.white)),
+                    const SizedBox(height: 2),
+                    Text(subtitle,
+                        style: const TextStyle(
+                            fontSize: 12, color: Colors.white38)),
+                  ],
+                ),
+              ),
+              if (!isLocked && bestScore > 0)
+                Column(
+                  crossAxisAlignment: CrossAxisAlignment.end,
+                  children: [
+                    Text('\$bestScore',
+                        style: TextStyle(
+                            color: color,
+                            fontWeight: FontWeight.w800,
+                            fontSize: 20)),
+                    Text('rekordas',
+                        style: TextStyle(
+                            color: color.withValues(alpha: 0.6),
+                            fontSize: 10)),
+                  ],
+                )
+              else
+                Icon(
+                    isLocked
+                        ? Icons.lock_rounded
+                        : Icons.arrow_forward_ios_rounded,
+                    size: 16,
+                    color: c.withValues(alpha: 0.6)),
             ],
           ),
         ),

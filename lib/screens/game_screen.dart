@@ -231,7 +231,7 @@ class _GameScreenState extends State<GameScreen>
                       border: Border.all(
                           color: _accentColor.withValues(alpha: 0.4)),
                     ),
-                    child: Text('\$_correct',
+                    child: Text('$_correct',
                         style: TextStyle(
                             color: _accentColor,
                             fontWeight: FontWeight.w700,
@@ -328,7 +328,7 @@ class _GameScreenState extends State<GameScreen>
                 ),
                 const SizedBox(height: 12),
                 Text(
-                  '\$_correct',
+                  '$_correct',
                   style: const TextStyle(
                       color: Colors.white,
                       fontSize: 72,

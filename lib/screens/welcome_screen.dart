@@ -321,7 +321,7 @@ class _GameButton extends StatelessWidget {
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.end,
                   children: [
-                    Text('\$bestScore',
+                    Text('$bestScore',
                         style: TextStyle(
                             color: color,
                             fontWeight: FontWeight.w800,
